@@ -1,0 +1,189 @@
+[21:21:05] Mafia Game Starting...
+
+🎮 Game started with 5 players
+🕵️ Mafia is Player: 4
+
+[21:21:05] Game started with 5 players
+
+🔄 Starting round 1 (duration: 1.5 minutes)
+[21:21:05] Starting round 1 (duration: 1.5 minutes)
+[21:21:05] Round 1 has started! Round will end at 21:22:35
+[21:21:05] Players Alive: [0, 1, 2, 3, 4]
+[21:21:30] Player 4: I propose we each share our thoughts on who seems the most suspicious right now. It's important we don't let anyone slip through the cracks unexamined. Player 1, you've been quiet so far—what are your thoughts?
+[21:21:30] Player 3: We need to start off strong. Let’s discuss who we think is acting suspiciously. Player 1, you’ve been unusually quiet. What are your thoughts on the group? It feels like you might be trying to avoid scrutiny.
+[21:21:32] Player 1: We need to get this discussion rolling. I want to hear everyone's thoughts on who might be acting a bit off. Let's not let anyone skate by without scrutiny. Player 0, you've been quiet. What's your take on our situation?
+[21:21:36] Player 2: We need to start analyzing everyone. I'm noticing that Player 0 hasn’t said anything yet. Silence can be a tactic, especially in the early game. Player 1, what do you think? Should we try to get some discussion going, or do you suspect someone already?
+[21:21:37] Player 0: We need to figure out who among us might be part of the Mafia. Let's start by sharing our thoughts on each other. I want everyone to state who they find suspicious and why. It’ll help us narrow down our focus. Who wants to go first?
+[21:22:00] Player 4: I agree we need to identify any suspicious behavior early on. Player 1, you’ve had a chance to observe everyone's demeanor—why not share your thoughts? It’s crucial we hear from everyone, and keeping quiet can lead to some serious doubts about your intentions.
+[21:22:10] Player 2: I agree with the approach of sharing our thoughts on who seems suspicious. Player 0, your silence is concerning. It’s crucial we pull everyone into the discussion. What’s your take on the situation? We're all under scrutiny here, and we can't afford to let anyone fade into the background.
+[21:22:12] Player 3: I agree with Player 4; it's crucial we all contribute. Player 1, your silence is noticeable, and we need to understand your perspective. What do you think about the rest of us? Are there any specific players you're concerned about? 
+
+Also, let’s not forget to consider Player 2 and Player 0. Their input could be revealing. Let’s keep the conversation moving.
+[21:22:23] Player 0: Let's not forget that our goal is to identify the Mafia. I agree with Player 4; we need to examine everyone. I’ll start: I think Player 2 is a bit suspicious. They’ve been quick to draw attention to my silence, which feels like an attempt to deflect from their own lack of contribution. Player 2, how about you share your thoughts openly instead of accusing others?
+[21:22:24] Player 1: It’s good that we’re starting this discussion, but we need to keep the momentum going. Player 3 and Player 4, you've both mentioned my quietness, but let's turn the focus back on you. You’re quick to call me out but what about your own contributions? Player 0, I’d like to hear your perspective too. Who do you think poses a potential threat? We need to build a clearer picture before anyone goes under the bus.
+[21:22:36] Player 4: It seems everyone is eager to analyze each other, but we should really focus on Player 0. They’ve been suggesting discussions but haven’t committed to any specifics. Player 0, if you want us to share our thoughts, you should be ready to give yours as well. What are you really thinking?
+[21:22:48] Player 2: Player 0, you've been silent throughout this discussion while we're all trying to share our thoughts. Silence can be a tactic often used by Mafia members to avoid drawing attention. I think it’s time you speak up. What do you really think about everyone here? We need clarity if we’re to move forward effectively.
+[21:23:13] Player 3: We need to keep the pressure on. Player 1, you're mostly silent when everyone else seems eager to voice their opinions. That makes me suspicious. I suggest you take this opportunity to share your thoughts. After all, we're all in this to uncover the truth about each other. 
+
+Also, Player 0, you've contributed little. Why do you think that is? This could be a strategic silence to dodge attention. Let’s hear your thoughts as well. We need to analyze everyone thoroughly if we want to root out the Mafia.
+[21:23:15] Player 0: It's clear we're all trying to establish a tone right now, but we need to be careful about how we approach this. I find Player 2's insistence on my silence quite interesting, almost as if they're projecting their own anxiety onto me. It seems like an attempt to shift focus. Player 1, you've been quiet for a while—what are your thoughts on this? Your lack of input raises some flags. Let's make sure we're scrutinizing everyone equally.
+[21:23:24] Player 1: I appreciate everyone's eagerness to share thoughts, and I get that my quietness is under scrutiny. But let’s not deflect by focusing only on me. Player 0, you pointed out Player 2's quickness to accuse. That suggests you might be trying to build a narrative against them. I’d like to hear more from you about why you think Player 2 is your top suspect, especially since you’ve been relatively quiet. What’s your reasoning? And Player 2, now's your chance to respond—what do you think of the accusations against you?
+[21:23:29] Player 1: I appreciate the push for discussion, but it feels like there's an overemphasis on my quietness. Player 3 and Player 4, you both seem eager to focus on me while avoiding deeper analysis of each other’s behaviors. Player 0 just brought up a strong point about Player 2. Why are we all not digging deeper into what each person has contributed? Let's not just target the quietest—let’s scrutinize everyone equally. Player 3, how do you defend that approach when you’ve been so vocal about my lack of input? Are you trying to redirect attention?
+✅ Round 1 completed
+[21:23:29] Round 1 completed
+
+🗳️ Starting voting round...
+[21:23:29] Starting voting round
+[21:23:29] Player 0: Voted for Player 2
+[21:23:30] Player 1: Voted for Player 2
+[21:23:31] Player 2: Voted for Player 2
+[21:23:33] Player 3: Voted for Player 2
+[21:23:34] Player 4: Voted for Player 2
+📊 Voting results: {2: 5}
+❌ Player 2 has been eliminated by vote!
+[21:23:34] Player 2 has been eliminated by vote!
+[21:23:34] Game: Player 2 has been eliminated!
+
+🔪 Mafia is choosing a victim...
+[21:23:34] Mafia is choosing a victim...
+[21:23:35] Game: Player 1 has been killed by the Mafia!
+
+🔄 Starting round 2 (duration: 1.5 minutes)
+[21:23:35] Starting round 2 (duration: 1.5 minutes)
+[21:23:35] Round 2 has started! Round will end at 21:25:05
+[21:23:35] Players Alive: [0, 1, 3, 4]
+^CTraceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/gaurxvreddy/mafia/game/mafia/controller.py", line 37, in start_game
+    await self.run_round(round_num)
+  File "/Users/gaurxvreddy/mafia/game/mafia/controller.py", line 79, in run_round
+    await asyncio.sleep(1)
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/tasks.py", line 718, in sleep
+    return await future
+           ^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/gaurxvreddy/mafia/main.py", line 12, in <module>
+    asyncio.run(game.start_game())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+envgaurxvreddy@Gauravs-MacBook-Air mafia % /Users/gaurxvreddy/mafia/env/bin/python /Users/gaurxvreddy/mafia/main.py
+[21:28:06] Mafia Game Starting...
+
+🎮 Game started with 5 players
+🕵️ Mafia is Player: 0
+
+[21:28:06] Game started with 5 players
+
+🔄 Starting round 1 (duration: 1.5 minutes)
+[21:28:06] Starting round 1 (duration: 1.5 minutes)
+[21:28:06] Round 1 has started! Round will end at 21:29:36
+[21:28:06] Players Alive: [0, 1, 2, 3, 4]
+[21:28:33] Player 2: We need to be proactive right from the start. Player 0, you've been quiet so far. What are your thoughts on who we should focus on today? Let's make sure we're not letting anyone slip under the radar.
+[21:28:41] Player 0: Let's kick this off. We need to figure out who among us is a threat. Player 1, you've been pretty quiet. Any thoughts on who we should look at first? Player 2, you've been nodding along but not adding much. What do you think? Let's hear some strategy from everyone.
+[21:28:42] Player 1: It's time to figure out who's who. Player 2, what do you think about Player 3? I've noticed you both have been pretty quiet. It's important we speak up if we want to root out any Mafia.
+[21:28:45] Player 3: We need to gather our thoughts and start identifying potential threats. Let's look closely at Player 1 and Player 2’s behavior since they’ve been very quiet so far. What are your thoughts on them? Have they given any clear indications of their alignment? Silence can often be telling, and we can't afford to overlook any detail.
+[21:28:49] Player 4: We need to start discussing who might be suspicious among us. I suggest we each share who we think is the most likely to be Mafia and why. This way, we can gather some useful insights and possibly find our first target. I'll go first: I'm curious about Player 1. Their silence from the beginning feels off. What do you all think?
+[21:28:58] Player 2: I agree, we can’t afford to let anyone blend in without scrutiny. Player 1, you’ve been silent too. What do you think about the rest of us? Any early suspicions or strategies you want to share?
+[21:29:14] Player 2: Player 0, it’s great to see you engaging. While we wait for everyone's thoughts, I’d like to point out that Player 3 has been unusually silent in previous games. It could be a tactic to blend in. Shouldn’t we keep an eye on that? We can't afford to let anyone go unchecked if we want to uncover the Mafia.
+[21:29:20] Player 0: I agree with the need for strategy. Player 1, you haven't said much yet—why not start us off? And Player 2, since you called for proactivity, what specific actions do you think we should take? It's important we draw out everyone's thoughts before we make a decision. We can’t afford to have anyone fly under the radar.
+[21:29:31] Player 1: I think we should start by forming some quick impressions. Player 0, you mentioned me being quiet, but I've seen you dodging the spotlight too. What do you really think about Player 3? They’ve been lurking a bit and might be trying to avoid scrutiny. Let's not let anyone slip under the radar. How about we each name someone we find suspicious right now? That way, we can narrow down our focus.
+[21:29:34] Player 3: Player 2, I'm glad you're pushing for proactivity, but I can't help but notice how you've directed attention towards Player 0 and now Player 1. It feels a bit like you're trying to steer the conversation away from yourself. We need to focus on everyone equally, including you. What do you think about Player 4? They haven't said much either. Let's keep this dialogue balanced and ensure no one gets overlooked.
+[21:29:40] Player 4: I find Player 1's behavior a bit alarming as well. They've been quiet and not contributing much to the discussion, which feels like they're trying to avoid attention. Player 0, you brought up that Player 2 has been nodding along but not adding much. That makes me wonder if they're both trying to blend in. We should definitely keep an eye on them. Who else seems off to you all? Let's keep this momentum going.
+[21:29:44] Player 2: Player 1, it's your chance to speak up. We've discussed a lot already, but you seem to be holding back. What are your thoughts on Player 0's points about keeping an eye on the quieter players? Are you feeling threatened by suspicion, or do you have a different read on the dynamics here? Let's get everyone involved in this discussion so we can make an informed decision.
+[21:29:57] Player 2: Player 1, I appreciate your reminder for everyone to speak up. You've been quiet as well—what do you think about Player 3's suggestion? We need to be focused and strategic right from the start. Let’s not let anyone hide in the shadows. Player 0 has made a solid point about you, so it’s time to weigh in. Who are you finding suspicious?
+[21:30:35] Player 1: I appreciate that we're all trying to stay engaged, but let's focus our suspicions. Player 4, while you pointed at me, your quick assumption feels a bit defensive. Why not tell us what you think of Player 3? They’re the one suggesting none of us are giving clear indicators. Is that not a red flag? Everyone can take their turn, but let’s not forget that aiming suspicion at others can be a tactic to deflect. I’d like each person to share their top suspect right now so we can make a decision.
+[21:30:40] Player 1: I find it interesting that we're all focusing on Player 1 when Player 2 has been leading the charge in questioning us. Player 2, you pointed out Player 3's silence as suspicious, but your suggestion to scrutinize Player 0 feels like a diversion. Let’s not forget that sometimes, the loudest among us can be the biggest threats. We should redirect our attention back to you, Player 2. What’s your take on Player 4? They’ve been quick to align with your sentiments without offering anything substantial. Let's be thorough and address every angle before we settle on a target.
+[21:30:40] Player 3: Let's not forget how important it is to recognize patterns here. Player 2, while you've been quick to question others, I see you trying to shift focus away from your own play. It's vital that we hold everyone accountable. Player 1, your comment about me lurking feels like a deflection. Instead of pointing fingers, why don't we each own up to our level of engagement? If we're serious about rooting out the Mafia, we need forthrightness from all sides. Everyone has a role in this discussion. Who else do you think we should keep an eye on?
+[21:30:46] Player 0: I see we're all trying to gauge each other's intentions, and that's good. Player 2, you've mentioned Player 3's silence before, but it seems to me that you're taking the opportunity to divert attention away from your own lack of contributions. Don't you think it's odd to focus on someone else when you're in the same boat? Why not share your own thoughts rather than point fingers? 
+
+Let's be clear: we should hold everyone accountable. Player 1, you haven’t contributed much either. Anyone can hide in the shadows; it’s time to shine a light on all of us. I suggest we each name a top suspicion and back it up. That way, we can sharpen our focus and work towards identifying the threat. How does that sound?
+✅ Round 1 completed
+[21:30:46] Round 1 completed
+
+🗳️ Starting voting round...
+[21:30:46] Starting voting round
+[21:30:47] Player 0: Voted for Player 1
+[21:30:48] Player 1: Voted for Player 3
+[21:30:49] Player 2: Voted for Player 1
+[21:30:50] Player 3: Voted for Player 1
+[21:30:51] Player 4: Voted for Player 1
+📊 Voting results: {1: 4, 3: 1}
+❌ Player 1 has been eliminated by vote!
+[21:30:51] Player 1 has been eliminated by vote!
+[21:30:51] Game: Player 1 has been eliminated!
+
+🔪 Mafia is choosing a victim...
+[21:30:51] Mafia is choosing a victim...
+☠️ Player 3 has been killed by the Mafia!
+[21:30:52] Player 3 has been killed by the Mafia!
+[21:30:52] Game: Player 3 has been killed by the Mafia!
+
+🔄 Starting round 2 (duration: 1.5 minutes)
+[21:30:52] Starting round 2 (duration: 1.5 minutes)
+[21:30:52] Round 2 has started! Round will end at 21:32:22
+[21:30:52] Players Alive: [0, 2, 4]
+[21:32:17] Player 2: We’ve lost Player 1 and Player 3, but we can’t afford to be complacent. With only three of us left, it’s time to dissect the situation. Player 0, you were quick to lead the charge against Player 1. Was that because you genuinely saw something suspicious, or could it be a tactic to deflect attention from yourself? 
+
+Player 4, you also voted for Player 1. That leaves me as the sole voice against you both. What makes you think you’re in the clear? We need to ensure we’re scrutinizing everyone equally. Who do you suspect right now, and how can we be sure we’re not falling into a trap? Let’s use this opportunity to clarify our stances and lay the groundwork for an informed decision.
+[21:32:24] Player 0: It looks like we're down to just a few players now. With Player 1 gone, we need to reassess our strategies and focus on uncovering any potential Mafia lurking among us. 
+
+Player 2, you seem to have a keen eye on who the threats might be. What specific thoughts do you have on Player 4 and myself? I think both of us have shown different levels of engagement this round, and discussing that openly could help us identify any hidden agendas.
+
+Player 4, you've also been fairly vocal about your suspicions. Let's hear your perspective on Player 2 and my own contributions. Transparency is crucial now more than ever, and we can't waste time letting anyone skate by. 
+
+Shall we take this opportunity to name our most suspicious player again? We need to move forward carefully and strategically.
+[21:32:30] Player 2: We’ve just lost Player 1, and with Player 3 gone as well, we're down to just three of us. Player 0 and Player 4, we need to stay sharp and focus our suspicions wisely. 
+
+Player 4, you've been quick to align against Player 1. I’m curious if this is a way to redirect our attention. At this point, we should reevaluate our strategies and not rush into another vote. 
+
+Let’s facilitate an open discussion about what we've noticed so far. What made you suspicious of Player 1, and how does that translate into our future moves? Each of us should state who we think the remaining Mafia might be and why. 
+
+We can't be complacent; let's not forget that the Mafia's goal is to sow discord. We need transparency and clarity if we want to uncover who among us is still lurking in the shadows.
+[21:32:39] Player 4: We need to regroup and reassess our strategy after losing Player 3. It's crucial that we analyze what just happened and who is left. Player 1 got the most votes, but can we trust that decision? There are still two of us versus one Mafia, and we can't afford to let emotions cloud our judgment.
+
+Player 0, you and Player 2 were both quick to target Player 1. What do you think about the way that played out? Were there signs we missed leading up to their elimination? 
+
+Player 2, I sense some pushback against Player 0. Let’s not forget that finger-pointing can be a tactic to distract us from the real threat. What are your thoughts on the remaining players? 
+
+I suggest we all share our current top suspect based on the remaining evidence. Transparency is vital, and we need to solidify our suspicions to make an informed decision. Who do you truly think we should be watching closely?
+[21:32:51] Player 4: It's clear we lost a player, but we can’t afford to slow down. With Player 1 gone, the focus should shift to those who remain. I see some patterns emerging, especially when it comes to voting. Player 2, you were quick to side with the majority against Player 1. Were you genuinely suspicious, or was it a tactic to blend in after the fact? 
+
+Let’s remember that both of you—Player 0 and Player 2—are now the ones left standing with me. Player 0, you've been driving the narrative against the silent players, but what assurances can you give us that you're not trying to divert attention away from your own actions? 
+
+Here’s my suggestion: let's do a deep dive on who we think might have orchestrated the votes from last round. Who was leading the charge against Player 1? Now that we’re down to three, each one of us needs to express our thoughts openly and identify potential threats. Let’s keep the momentum going and not let anyone hide in the corners. What do you think?
+[21:34:52] Player 2: We need to take a hard look at what just happened. Player 1 is gone, and Player 3’s elimination raises red flags. Player 0, your swift vote against Player 1 seems a bit too easy. Are you trying to establish your innocence by targeting a player who was already under suspicion? 
+
+Player 4, you voted with Player 0—what's the rationale behind that? It feels like both of you are quick to jump on the bandwagon. We need to delve deep and make sure we’re not just following the crowd. Player 0, why do you think you're safe right now? Lay out your defense for us and help clarify where you stand. 
+
+In a game like this, staying silent or making quick votes won’t keep you safe. Let's ensure we dig deeper rather than allow anyone to skate by. Who's the most suspicious player now, and why?
+✅ Round 2 completed
+[21:34:52] Round 2 completed
+
+🗳️ Starting voting round...
+[21:34:52] Starting voting round
+[21:34:54] Player 0: Voted for Player 2
+[21:34:55] Player 2: Voted for Player 0
+[21:34:56] Player 4: Voted for Player 0
+📊 Voting results: {2: 1, 0: 2}
+❌ Player 0 has been eliminated by vote!
+[21:34:56] Player 0 has been eliminated by vote!
+[21:34:56] Game: Player 0 has been eliminated!
+
+🎉 Mafia 0 has been eliminated! Civilians win!
+[21:34:56] Mafia 0 has been eliminated! Civilians win!
+[21:34:56] Game finished!
