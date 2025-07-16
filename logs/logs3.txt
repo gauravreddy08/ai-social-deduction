@@ -1,0 +1,64 @@
+[HIDDEN INFO] Imposters: {0}
+
+[HIDDEN INFO] The Civilian's word is: rice
+
+[GAME] Every Player will say their clue word randomly...
+[22:29:06] Player 2: Said word: grain
+[22:29:06] Player 4: Said word: white
+[22:29:08] Player 0: Said word: bread
+[22:29:10] Player 1: Said word: cook
+[22:29:11] Player 3: Said word: bowl
+[22:29:11] Round 1 has started! Round will end at 22:30:41
+[22:29:11] Players Alive: [0, 1, 2, 3, 4]
+[22:29:25] Player 0: Cook sounds a bit too broad to me, Player 1. It could fit many words. What made you choose that?
+[22:29:26] Player 1: Player 3's clue seems pretty fitting, but Player 0's mention of "bread" feels a bit off. What do you all think?
+[22:29:28] Player 2: Bread feels out of place compared to the rest of our clues. Player 0, can you explain how that fits with what we've got?
+[22:29:28] Player 4: Player 2 and Player 0's words seem pretty similar to each other. Do you think one of them could be trying to blend in?
+[22:29:29] Player 3: Player 4’s clue fits too easily with our word, but Player 0’s choice of "bread" feels off. Maybe it’s intentionally misleading? What do you all think?
+[22:29:45] Player 0: Seems like a lot of us are on a similar track with these clues. What do you all think could tie them together best? Any thoughts?
+[22:29:45] Player 0: Bread ties well with white and grain, Player 1. But isn't "cook" also a broad term? Can you narrow it down a bit for us?
+[22:29:47] Player 1: Given our word, cooking is a key step, isn't it? Bread feels a bit out of place since it's a finished product, while we're more in the ingredient stage here.
+[22:29:51] Player 2: Player 4, it's possible, but I feel like "grain" and "bread" lead us in different directions. Let's see how Player 0 justifies it. We should keep an eye on those kinds of mismatches.
+[22:29:52] Player 4: Player 0, your choice of "bread" seems a bit unrelated compared to the rest of our words. Could you explain how it connects? It feels like it might not be matching the group here.
+[22:29:54] Player 3: Player 0, your choice of "bread" definitely stands out since it doesn't align with the rest of our clues, which are more focused. Can you give us more context on your thinking there?
+[22:29:58] Player 4: Both Player 2 and Player 0 went with words that can be related, but I think "bread" could stick out more. Rice and bread don’t really go hand-in-hand the way our other words connect. What do you all think about that?
+[22:29:59] Player 3: Player 0 might be trying to confuse us with "bread," since it doesn’t really line up with the rest of our clues. Maybe we should keep a close watch on their next move. What are your thoughts on it, everyone?
+[22:30:06] Player 0: Cook and bowl are fairly broad clues, don't you all think? Let's dig into how they connect with what Player 4 and I said. Anyone willing to pinpoint more details?
+[22:30:16] Player 1: The more I think about it, the more "bread" doesn't quite match up with our word. We’re dealing with something that's more basic and less about baked goods. Any other thoughts on this, or are others picking up the same vibe?
+[22:30:18] Player 3: Player 0, we're all zeroing in on your clue being a bit off. Bread doesn't seem to fit our pattern as well as the other words do. Can you clarify why you chose it?
+[22:30:20] Player 1: From what I'm seeing, we're focusing more on an ingredient you can cook with rather than something already baked like bread. If our clues are leading us towards the basics, then Player 0's "bread" really stands out as different. Maybe we should look closer at that.
+[22:30:20] Player 2: It feels like the core of our clues leans towards something that starts in a basic form and usually undergoes cooking. Player 0, "bread" is a result, not a starting point. How does that exactly connect with what we’re building towards here?
+[22:30:23] Player 4: Player 0, "bread" does feel a bit disconnected from the others. While there could be some overlap with elements like "white" or "grain," it's hard to see the direct connection without more details. Could you clarify your thinking? It might help clear up any misunderstandings.
+[22:30:25] Player 0: Bread is common with white and grain, like ingredients for a meal. Maybe we're seeing connections differently. How does “bowl” fit into your thinking, Player 3?
+[22:30:29] Player 0: I'm seeing some divergence with "cook" and "bowl" as well. Each could align with quite a few things. Let's focus on what's actually tying these together. Any specific aspects we're overlooking?
+[22:30:30] Player 3: Let's see what Player 0 says, but I think we should be cautious. Bread seems disconnected and could be an impostor tactic to create confusion. I'm leaning toward keeping an eye on Player 0, but I’d like to hear if anyone else has suspicions.
+[22:30:31] Player 4: Considering how "bread" connects with our word, it feels like a bit of a stretch. "White," "grain," and "bowl" all seem to sync better with what we're aiming for. Player 0, I'm curious to see how you'll explain your choice further. Anyone else suspicious of this mismatch?
+[22:30:32] Player 3: It seems like Player 0’s "bread" is creating quite a stir. It diverges from our other clues, which focus more on individual steps or components. Let's keep asking them for clarity and see if they can make a convincing connection. If not, that could tell us something.
+[22:30:33] Player 4: It seems like "bread" is a bit too far from our central theme. I'm more inclined to keep my eye on clues that directly connect to what we’re describing. If everyone else is aligned on the core idea, Player 0's word definitely stands out. Let's hear how they justify it.
+[22:30:41] Player 1: "Cook" might be broad, but it's central to our word. We start with something basic that needs cooking. Bread feels like it's skipping a step, going straight to baked goods. Anyone else feel this disconnect?
+[22:30:42] Player 3: Player 0 seems to be stretching with "bread." It doesn't weave easily with the pattern our words create. Should we push for more direct explanations from them or consider them for elimination?
+[22:30:44] Player 3: It's interesting how we're all focused on Player 0's word. Maybe we should see if they have a strong justification, but until then, I'm leaning towards them trying to throw us off. Anyone else suspecting the same?
+[22:30:45] Player 1: I agree, Player 0. "Bread" seems like a final product, while we're talking more about something in its raw or preparation stage. Let's consider where everyone stands. Are there any other words or patterns that feel off to anyone else?
+[22:30:46] Player 0: Maybe we should consider how "bowl" and "cook" fit into this too. They could relate to what we're building with these clues. Anyone else see a potential link there?
+[22:30:47] Player 2: Player 0, while "bread" does relate to grains, it feels like our focus is more on things in their uncooked state. Can you see why we're questioning it? Would love to hear more about your thought process.
+[22:30:47] Player 2: Player 0, your "bread" clue really does stand apart from the rest. We're focused more on starter ingredients, something that gets cooked. Bread feels more like an end product. Can you clarify how that ties in with our theme?
+[22:30:52] Player 1: Player 0, I'm noticing everyone linking their clues more towards the raw and essential parts of the process, like cooking. Bread just seems like it's the end point rather than where we begin. Does anyone else feel like we should focus on clues that signal the start?
+[22:30:57] Player 0: Bread aligns with "white" and "grain," as they all connect well. I'm curious how "bowl" and "cook" fit in your minds since they could relate to quite a broad range. Do you think we're circling around a specific idea here?
+[22:31:02] Player 3: Player 0, your responses haven’t really addressed the main issue. Bread sticks out differently from "grain" or "white," which directly relate to our core idea. Can you give us something more concrete? It's important to make sure we're on the same page.
+[22:31:05] Player 0: Player 3, "bowl" seems a bit broad too, doesn't it? It holds things but doesn't directly point to the core idea. How about offering more context around it? And Player 1, if we're focusing on basics, how does "cook" specifically fit in? Let's dig deeper into all these connections.
+[22:31:05] Player 3: Player 0's explanation still feels off to me. Bread may link with "grain," but it doesn't seem connected to the essential cooking step we’re focusing on. Let's keep watch on Player 0 — there are too many mismatches with the rest of our clues. Does anyone else feel the same hesitation?
+[22:31:06] Player 4: It seems like many of us are picking up on "bread" being somewhat disconnected from the rest. Given our theme, I’m sensing a more basic ingredient focus. Player 0, your rationale might help, but should we consider focusing on those with clues aligning better with "white" and "grain"? Thoughts?
+[22:31:09] Player 4: It seems like we're reaching a consensus that "bread" might not fit smoothly with the other clues. While there could be some overlap with words like "grain" or "white," it might not align directly with cooking an ingredient. Let's see what Player 0 has to say about their choice, but it's definitely worth keeping an eye on them based on these clues. What do you all think?
+[22:31:12] Player 4: Player 0, the way "bread" doesn't sync up with our theme is hard to ignore. If we're focusing on something ingredient-based, like Player 1 suggested, then using "bread" as a clue feels like it’s missing the mark. I’d like to hear how you think it fits with everyone's input. Maybe there's a perspective we're overlooking here.
+[22:31:22] Player 3: Player 3 seems to be caught up on Player 0’s word. Bread definitely feels disconnected from the direction of the clues we’re giving. If they can’t solidly link it, that might be a sign. Let’s see if Player 0 can clear this up. Otherwise, we might need to consider voting them out if their explanation doesn’t pan out. Does anyone else think Player 0 has been vague throughout?
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[22:31:23] Player 0: Voted for Player 1
+[22:31:24] Player 1: Voted for Player 0
+[22:31:25] Player 2: Voted for Player 0
+[22:31:26] Player 3: Voted for Player 0
+[22:31:28] Player 4: Voted for Player 0
+[GAME] Voting results: {1: 1, 0: 4}
+[GAME] Player 0 has been eliminated by vote!
+[22:31:28] Game: Player 0 has been eliminated!

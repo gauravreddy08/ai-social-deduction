@@ -2,13 +2,11 @@ from game.mafia.controller import Game
 from logger_config import setup_logging
 import asyncio
 
-# Initialize logging system with game name
-GAME_NAME = "mafia"  # Can be changed to any other game name
-logger = setup_logging(game_name=GAME_NAME)
-logger.info(f"{GAME_NAME.title()} Game Starting...")
-
-# Create and run game
+game_name = "mafia"
+logger = setup_logging(game_name=game_name)
 game = Game(n_players=5)
+logger.debug(f"{game_name} Game Starting...")
+
 asyncio.run(game.start_game())
 
-logger.info("Game finished!")
+logger.debug("Game finished!")

@@ -1,0 +1,126 @@
+[HIDDEN INFO] Imposters: {3}
+
+[HIDDEN INFO] The Civilian's word is: wine
+
+[GAME] Every Player will say their clue word randomly...
+[00:31:00] Player 6: Said word: grape
+[00:31:01] Player 5: Said word: red
+[00:31:01] Player 1: Said word: glass
+[00:31:02] Player 0: Said word: bottle
+[00:31:03] Player 3: Said word: sweet
+[00:31:04] Player 4: Said word: cheese
+[00:31:05] Player 2: Said word: vineyard
+[00:31:05] Round 1 has started! Round will end at 00:32:35
+[00:31:05] Players Alive: [0, 1, 2, 3, 4, 5, 6]
+[00:31:56] Player 4: Okay, looking at all the clues, most of us went for things directly related—grape, vineyard, bottle, glass, red. Player 3’s clue “sweet” and mine, “cheese,” are a little less obvious, but I went for cheese because people often pair it together with the main word. But “sweet” could fit, too, though not all of this matches. Is anyone else getting weird vibes from how general “sweet” is, or do you think that’s a legit clue?
+[00:31:57] Player 0: Looking at the clues so far, most of them line up with what I’d expect for our word—except maybe “cheese” from Player 4. I get that the two can go together, but it feels a bit removed compared to everything else. Also, “sweet” from Player 3 feels just a bit generic; not all of our word is necessarily sweet, right? Interested to hear why you both went that route. Anyone else find those two a bit off?
+[00:32:02] Player 3: Okay, looking back at the clues, most of us seem to be circling around the same general theme—Player 2 saying "vineyard" and Player 6 saying "grape" are basically pointing in the same direction. But Player 4's clue "cheese" kind of stands out to me. I can see an association with some of the other clues, but I feel like that's taking things a little sideways. Am I missing something, or does "cheese" seem like a stretch? Player 4, can you explain your reasoning there?
+[00:32:08] Player 5: Alright, looking at all the clues, most people went for really direct associations. I’m a bit hung up on Player 4’s word—cheese. I get the connection, but compared to everyone else, it feels a little more indirect. Is that just a creative association or maybe an attempt to stay vague? 
+
+Also, Player 3’s clue 'sweet' is on theme, but could apply to a lot of different things. I’d like to hear a little more about what specifically made you choose that word, Player 3. Are you thinking of a particular kind or experience?
+[00:32:17] Player 2: Interesting mix of clues already. I’m a bit thrown by Player 4’s “cheese”—I get there’s a connection, but it’s a step removed from the rest of us who seemed to stay closer to the main idea. Everyone else’s clues—grape, red, glass, bottle, vineyard—feel very on theme. 
+
+Player 3’s “sweet” works, but it’s a little generic. Wine can be sweet, but not always, and that could also fit other drinks. 
+
+Out of all of them, cheese stands out as maybe the safest word if you weren’t sure about the topic. Player 4, could you walk us through what led you to “cheese”? Are you just thinking about pairings?
+[00:32:33] Player 1: Looking at everyone’s clues, I feel like most of us are circling a pretty specific theme. Player 4’s clue “cheese” stands out a bit because it’s more about what you pair with something than about the thing itself. I get it, but it’s less direct than, say, “bottle” or “vineyard.” 
+
+Also, Player 5 just said “red,” which is super broad—it could apply to so many things. Grape, glass, and bottle all feel logically connected to the word I have. I’m less sure about “sweet” from Player 3; a lot of things can be sweet, so that could be someone playing it safe.
+
+Curious what everyone thinks about Player 5 and Player 4 in particular—were you both trying to avoid being too obvious? Or am I reading into it too much?
+[00:32:34] Player 6: Looking at all the clues, most of us seem to be circling the same general flavor, but a couple stand out to me. For example, Player 4 went with cheese, which on the surface makes sense, but feels a little bit like a pivot from our main theme. Like, most of us are sticking to things directly connected, but cheese is a classic pairing, not the actual thing.
+
+Player 3’s choice of sweet is also interesting — that could apply, but it’s not always accurate, and feels a bit broad compared to words like glass and bottle. Is that trying to play it safe, or am I reading too much into it?
+
+Would love to know why you picked those clues. Especially Player 4, since you could have said something closer to the main topic.
+[00:32:58] Player 0: Yeah, I’m with Player 4 that “sweet” is a pretty broad clue—wine can be sweet, but it can also be dry, so it doesn’t really narrow things down. “Cheese” does make sense with wine in a pairing way, but if I were an impostor trying to play it safe, I might pick something like that to fit in without knowing the word. Player 3, can you walk us through your logic a bit more? And Player 4, was cheese your first instinct or just a backup?
+[00:33:04] Player 4: Fair point, but I stand by my clue. Cheese might seem a little off on its own, but with our word, it’s a classic pairing—think of a wine and cheese night. If I’d picked something more obvious, I felt like I’d risk giving the word away immediately. 
+
+As for “sweet,” I agree with you, Player 0. Some types fit, but not all, so it feels like someone hedging. But your clue “bottle” was pretty broad too. Why not get more specific, like “cork” or “tannin”? That might have felt more pointed for our word.
+[00:33:35] Player 5: That makes sense, Player 3, but I agree with everyone that “cheese” is a bit of an oddball here. I know it’s a classic pairing, but if we all have the same word, I’d expect clues a little closer to the core idea, like the others gave. As for “sweet,” I can see how it fits, but not all of this is sweet, especially with varieties like “red” or “dry.”
+
+Honestly, the main thing that’s bugging me is that both “cheese” and “sweet” could connect to a lot of things—desserts, drinks, snacks—which makes me wonder if one of you is trying to play it safe. I’d actually like to hear if anyone thinks “glass” or “bottle” is too generic, or do those just naturally fit our word best?
+[00:33:51] Player 3: Since you’re all wondering about my “sweet” clue, let me explain where my head was at. When I was thinking about our word, the first thing that hit me is how it’s often described using terms like “sweet” or sometimes the opposite. Not every version fits, but sweetness is definitely one of the big characteristics people talk about. I thought about going for something more obvious, but I was worried about making it too easy for the impostor if they’re lurking. 
+
+Honestly, if I had to pick someone that seems off, I’d still say “cheese” is a bit of a reach compared to the other clues. I get what Player 4 is saying about pairing, but it’s not the first thing that comes to mind for me. 
+
+Does anyone feel like “bottle” or “glass” are playing it too safe, though? They’re super on the nose, so I wonder if an impostor could be hiding behind generic associations.
+[00:33:54] Player 2: The more I look at it, I’m starting to think that both “cheese” and “sweet” could be attempts to blend in without risking giving away the main word. I get that cheese is a classic pairing, but if you didn’t know the word and just saw other people saying things like “grape” or “bottle,” you might try to stay safe with something loosely connected. Same with “sweet”—that’s a trait for some types, but it’s broad enough to fit a lot of things. 
+
+Player 4, I’m really curious—before you saw anyone else’s clues, what was going through your mind that landed you on “cheese” first? And Player 3, can you be more specific about what you pictured when you said “sweet”? Were you thinking of a particular type or memory? Just trying to pin down if these were genuine first thoughts.
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[00:33:55] Player 0: Voted for Player 4
+[00:33:56] Player 1: Voted for Player 4
+[00:33:58] Player 2: Voted for Player 4
+[00:33:59] Player 3: Voted for Player 4
+[00:34:00] Player 4: Voted for Player 3
+[00:34:01] Player 5: Voted for Player 4
+[00:34:02] Player 6: Voted for Player 4
+[GAME] Voting results: {4: 6, 3: 1}
+[GAME] Player 4 has been eliminated by vote!
+[00:34:02] Game: Player 4 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[00:34:03] Player 2: Said word: cork
+[00:34:03] Player 5: Said word: merlot
+[00:34:04] Player 1: Said word: tannin
+[00:34:05] Player 3: Said word: white
+[00:34:06] Player 6: Said word: fermentation
+[00:34:08] Player 0: Said word: vine
+[00:34:08] Round 2 has started! Round will end at 00:35:38
+[00:34:08] Players Alive: [0, 1, 2, 3, 5, 6]
+[00:35:20] Player 6: Okay, interesting new round. I feel like most of us stuck even closer to the core idea this time—cork, tannin, merlot, fermentation, vine—they’re all pretty directly tied to the process or types you’d expect for our word. 
+
+Player 3’s clue is "white," which definitely lines up, but it’s a bit less detailed compared to the rest. I’d expect something a touch more specific, especially after everyone’s pointed explanations last round. 
+
+Curious—Player 3, did you pick “white” just to balance your previous clue? Or was there another angle you had in mind? Everyone else, does anything jump out at you as suspicious or is it just me overanalyzing?
+[00:35:21] Player 2: I like these clues a lot more this round—everyone got super specific. “Fermentation,” “cork,” “tannin,” even “merlot” and “vine” all line up exactly how I’d expect. Even “white” works as another big category related to the word.
+
+Compared to last round, this feels way tighter, so I’m definitely less suspicious overall. That said, I’d love to know why, Player 3, you pivoted from “sweet” to “white”—was that to give a clearer signal, or did you feel pressure from last round?
+
+Also, Player 5, “merlot” is really specific—it fits, but were you worried about being too obvious, or was that just your go-to association? Just checking where everyone’s heads are at.
+[00:35:30] Player 0: Now that we’re a round in, I think the new clues are all even more pointed—“tannin,” “merlot,” “fermentation,” and “vine” feel like they’re very much about the same thing, and all pretty hard to connect to anything else. “Cork” is right on theme too. Player 3, your clue “white”—while it fits, it’s just a broad color again. First “sweet,” now “white”—these feel like descriptors that could apply to lots of things, but don’t really lock into our word the way the others do. 
+
+Can you walk us through your thought process for that? Because if I were trying to avoid being obvious as an impostor, I might pick generic traits like “sweet” or “white.” Anyone else getting the same vibe?
+[00:35:48] Player 5: Looking at everyone’s new clues, things are definitely getting more specific—cork, tannin, vine, fermentation, merlot, and white all feel super on point for the word we have. Nobody really hedged or went off on a tangent this round. That makes me feel a lot better about the group overall.
+
+However, the one that sticks out to me a little is “white” from Player 3. It fits, but it’s the only color out of the group, while the rest of us focused on materials, processes, or types. The first round you went with “sweet,” and now “white”—both are accurate, but also broad categories. I might just be overthinking it, but I’d love to hear why you went with “white” over something more like process or part of the item itself.
+
+Is anyone else starting to feel better about who’s still here, or is there anyone whose clues feel a little too safe?
+[00:36:05] Player 3: Okay, I get that “sweet” last round was pretty broad, but now I’m seeing a mix of really direct and slightly more technical clues. For example, “tannin,” “cork,” and “fermentation” are pretty specific—they sound like someone who knows their stuff. Then there’s “white” from me, which kind of sticks with basic traits, and “vine,” which is related but feels similar to “vineyard” from earlier. 
+
+Honestly, it’s hard to tell who’s playing it safe this round since the clues are more on target, but “merlot” from Player 5 stands out as the first actual variety mentioned. Did you go specific to help us out, or were you trying to steer us down a path? Also, Player 6, I’m guessing fermentation is just about how it’s made, but it is a little more technical than the rest. 
+
+If I had to guess right now, I’m watching for anyone who suddenly gets way more detailed—sometimes impostors overcompensate by going too specific. Does anyone else feel like some of these clues are almost trying to “prove” too much?
+[00:36:15] Player 1: This round, I think everyone’s clues are way closer to the mark—stuff like cork, merlot, tannin, fermentation, and vine are way too on theme to all be coincidences. If anyone’s bluffing now, they’re doing an amazing job. 
+
+Player 3’s clue “white” is totally logical, since it’s one of the main categories for our word, but last round their clue “sweet” was a little broad. Now that we see “white” as a follow-up, it fits, but I’d still like to know what your thought process was between choosing “sweet” first and “white” now, Player 3—is that just how you associate the word, or something else? 
+
+Also, Player 5 went from a super broad “red” in round one to something very specific with “merlot” this time. That’s a pretty big jump in detail. Was that just to play it safe after being called out, or were you holding back to avoid being too obvious in the first round? 
+
+I feel like all of us except possibly Player 3 and Player 5 have given consistently concrete clues, but I’m curious what others think. Anyone have suspicions now that cheese is off the table?
+[00:36:37] Player 0: Yeah, I’m with everyone who feels “white” is a little too safe, especially coming right after “sweet” last round. It technically fits, but almost any drink or food could be described as white or sweet, so it doesn’t actually show you know the word. With everyone else getting super specific—like “tannin” and “fermentation”—it stands out even more. Player 3, are you deliberately staying broad so as not to give the word away? Or did nothing more specific come to mind? Because if I was trying to fake my way through, that’s the strategy I’d use.
+[00:36:45] Player 2: I’m with Player 6—this round, all the clues feel way more dialed-in, and “white” works for our word, but it’s definitely a broader category than stuff like “merlot” or “tannin.” 
+
+Player 3, I’m curious, were you trying to be a bit safer by sticking to a major type, or did you have something more specific in mind you chose not to say? Also, Player 0, “vine” makes total sense—just want to make sure you’re not echoing from “vineyard” last round. Was that intentional, or were you hoping to get more granular this time? 
+
+Right now, no one’s clue feels totally off, but I’d like to dig into some of the word choices just to make sure nobody’s hiding in the details.
+[00:37:06] Player 6: I’m with Player 2 on this—everyone’s clue this round got really close to the heart of the word. I actually like most of these as solid connections. With Player 3, though, “white” makes sense, but it’s noticeably broader than, say, “merlot” or “tannin,” which are super pointed. You could have picked so many things, but “white” keeps it a bit generic, and that makes me wonder if you’re just echoing what you picked up last round.
+
+Also curious, Player 5—“merlot” is a great call, but it’s so specific. Were you worried about painting a target on yourself for being too obvious? Or did you just go direct because you felt safe?
+
+I’d like to hear more about Player 3’s thought process too. Did the earlier suspicion influence your choice, or was that always where your mind went? Everyone, do we think going broad like “white” is more suspicious here, or is it just good variety?
+[GAME] Round 2 completed
+
+[GAME] Starting Voting Round 2
+[00:37:08] Player 0: Voted for Player 3
+[00:37:10] Player 1: Voted for Player 3
+[00:37:12] Player 2: Voted for Player 3
+[00:37:14] Player 3: Voted for Player 5
+[00:37:15] Player 5: Voted for Player 3
+[00:37:16] Player 6: Voted for Player 3
+[GAME] Voting results: {3: 5, 5: 1}
+[GAME] Player 3 has been eliminated by vote!
+[00:37:16] Game: Player 3 has been eliminated!

@@ -1,0 +1,168 @@
+[HIDDEN INFO] Imposters: {2}
+
+[HIDDEN INFO] The Civilian's word is: Swimming
+
+[GAME] Every Player will say their clue word randomly...
+[20:14:48] Player 6: Said word: goggles
+[20:14:57] Player 2: Said word: pool
+[20:15:00] Player 1: Said word: lap
+[20:15:03] Player 0: Said word: stroke
+[20:15:08] Player 5: Said word: splash
+[20:15:12] Player 4: Said word: dive
+[20:15:15] Player 3: Said word: water
+[20:15:15] Round 1 has started! Round will end at 20:16:45
+[20:15:15] Players Alive: [0, 1, 2, 3, 4, 5, 6]
+[20:15:46] Player 2: I feel like most of our clues—goggles, lap, stroke, dive, even pool—are pretty specific to swimming. But water just feels like a fallback that could fit any water activity. Player 3, what made you pick such a generic term instead of something more precise?
+[20:15:48] Player 5: Player 3’s clue felt too generic—water could point to plants, weather, cooking, almost anything. Everyone else gave something that ties more directly to the act or gear of swimming—goggles, stroke, lap, dive, splash, pool. That makes me uneasy. Player 3, what were you thinking when you chose “water”?
+[20:15:49] Player 6: I’m noticing lap, stroke, and goggles are pretty squarely about swimming, but words like water and pool feel broader. Player 3, when you said water, was it specifically swimming water or just the element itself? And Player 2, pool—were you picturing a swim pool or any pool of water?
+[20:15:51] Player 3: I’m seeing a pretty clear swimming theme—goggles, pool, lap, stroke, dive, water—but splash feels a bit off to me. It’s so generic, tons of activities splash. Player 5, what specifically were you picturing with “splash”? Does it tie into the same activity steps, or were you thinking more about water in general?
+[20:15:55] Player 0: I’m leaning toward Player 3 as our Impostor. Everyone else gave a pretty specific hint – lap, stroke, goggles, pool, splash – but water feels way too generic. Player 3, when you said water, what exactly were you picturing? And does anyone else think that dive from Player 4 is a stronger, more swimming-specific clue than just “water”?
+[20:16:02] Player 1: I’m noticing a pattern: lap, stroke, pool, and dive are all very specific to swimming. Goggles, splash, and especially water feel a lot more generic—water could point to any water-based activity. Player 3, when you chose “water,” what about it made you think of swimming rather than, say, boating or water parks? And Player 5, “splash” could fit tons of things—what steered you toward swimming with that word?
+[20:16:05] Player 4: I’m really hung up on Player 3’s clue water—it feels almost too obvious, like it could fit everything from tea to rain. If you actually had our word, wouldn’t you pick something a bit more specific? Player 3, when you said water, what angle were you thinking of? Also, Player 2 and Player 6 gave very context-rich clues—I’m more inclined to trust theirs. Anyone else feel like water is just too generic here?
+[20:16:32] Player 5: Player 3, I’m still not convinced—water feels more like a fallback than a deliberate swim clue. Were you thinking specifically of the water you swim in, or just the element itself? And Player 4, Player 1, do you both feel water stands out as too generic next to dive and lap? I’d like to hear your takes before we move on.
+[20:16:33] Player 4: Player 3’s silence is making me even more suspicious—can’t they come up with any justification for “water”? All our other clues point to specific swimming actions or gear. I’m ready to vote them out unless someone sees something I’m missing.
+[20:16:42] Player 2: I’m with everyone else—water just feels like a catch-all, while clues like goggles, stroke, lap, dive, even pool all point clearly to the sport of swimming. When I said pool, I was picturing the official swim pool, not just any puddle or pond. Player 3, can you explain how “water” ties specifically into that same context? And Player 5, was your “splash” meant as part of a dive or more the general idea of water splattering?
+[20:16:42] Player 6: I’m with Player2 and Player5—water feels like a fallback rather than a direct link to our word. Everyone else gave something that really screams swimming. Player3, what made you pick water over something more specific—were you thinking of swimming water or just the element itself? And Player2, when you said pool, were you picturing a dedicated swim pool or any old pool of water? Player4, you’ve been quiet—how do you feel about these clues so far?
+[20:16:48] Player 3: I get why “water” seems broad, but to me it was the most on-point—without water you literally can’t swim. You need it for every stroke, lap, dive or splash. That’s what made it feel specific in our context. By contrast, “splash” could be cooking, painting, even a car wash. Player 5, what scenario did you picture with that splash? And when you said “pool,” Player 2, were you strictly picturing a swim pool or something more abstract?
+[20:16:48] Player 0: I’m still 80% sure Player 3 is our impostor. Dive, pool, lap, stroke, goggles, even splash all point to concrete parts of swimming—but “water” is just the element itself, totally generic. Player 3, beyond saying “just the element,” what part of swimming were you picturing? And does anyone have a good reason why you’d pick water over something like kick, lane or buoy if you really had the word? If not, I’m leaning toward voting out Player 3.
+[20:16:52] Player 1: I’m still not sold on water—it feels like a catch-all. Player 3, can you explain exactly what context you had in mind with water? Were you picturing pool water, open water, or something else tied specifically to our word? And Player 5, when you said splash, was that the push-off into the pool, a dive entry, or something more general? Let’s get some concrete details before we vote.
+[20:17:12] Player 4: I agree that splash makes sense—I pictured that big arc of water when you hit the pool—but water still reads as a catch-all. Player 3’s silence isn’t helping their case. I’m leaning toward voting them out unless someone can show why “water” is as specific as the rest. Any different takes or defenses?
+[20:17:27] Player 5: I stuck with splash because I was picturing that big moment off the starting block—when you dive in and the water explodes beneath you. To me that feels way more tied to lap-swimming than just any random splash. Water on its own is almost too broad. Unless someone can give me a solid reason “water” was meant for swimming specifically, I’m with Player 4—Player 3 hasn’t justified their clue, and I’m ready to vote them out.
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[20:17:30] Player 0: Voted for Player 3
+[20:17:33] Player 1: Voted for Player 3
+[20:17:37] Player 2: Voted for Player 3
+[20:17:49] Player 3: Voted for Player 0
+[20:17:52] Player 4: Voted for Player 3
+[20:17:55] Player 5: Voted for Player 3
+[20:17:58] Player 6: Voted for Player 3
+[GAME] Voting results: {3: 6, 0: 1}
+[GAME] Player 3 has been eliminated by vote!
+[20:17:58] Game: Player 3 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[20:18:07] Player 6: Said word: chlorine
+[20:18:21] Player 1: Said word: lane
+[20:18:33] Player 5: Said word: butterfly
+[20:18:41] Player 2: Said word: freestyle
+[20:18:47] Player 4: Said word: swimsuit
+[20:18:55] Player 0: Said word: relay
+[20:18:55] Round 2 has started! Round will end at 20:20:25
+[20:18:55] Players Alive: [0, 1, 2, 4, 5, 6]
+[20:20:03] Player 6: I’m seeing a solid swimming theme with butterfly and freestyle as strokes, and chlorine as the pool chemical. But two clues feel a bit broad: relay and lane. Player 0, when you said relay, were you picturing a swimming relay or more of a track-and-field scenario? And Player 1, with lane, did you mean swim lanes specifically, or could it be another kind of lane? Also, swimsuit is swim gear but could lean beachy—Player 4, what context were you imagining there? Does anyone else feel relay or lane are stretching the theme compared to something like chlorine or the strokes?
+[20:20:11] Player 5: I’m seeing a clear subgroup with action strokes—butterfly, freestyle, relay—which tie directly to swimming itself. Lane, swimsuit, and chlorine feel more like environment or gear. Of those, chlorine strikes me as the odd one out: you don’t really swim chlorine, you just add it to the pool. Player6, were you picturing pool maintenance or something else when you said chlorine? And Player4, when you said swimsuit, did you mean a racing suit specifically for lap-swimming or just any swimwear? Player1, for lane, was it strictly a pool lane or any kind of lane? Right now I’m leaning toward Player6 unless they can give a stronger swimming-specific context. What does everyone else think?
+[20:20:11] Player 1: I’m noticing a split in how specific our clues are. Lane, butterfly, and freestyle all feel tied directly to swim technique or pool structure—hard to misinterpret those. But chlorine, swimsuit, and relay could point outside swimming. 
+
+Player 6, when you said chlorine, were you picturing the pool chemical as it relates specifically to swim training, or just pool maintenance in general? 
+
+Player 4, swimsuit could be for sunbathing or diving too—what made you lean swim rather than beachwear or water polo? 
+
+And Player 0, with relay were you picturing a swim relay exchange or any team race like in track? 
+
+I want to hear those contexts before we zero in on someone.
+[20:20:14] Player 4: I’m curious about chlorine—it’s definitely part of the pool environment, but it feels more about maintenance than the act of swimming itself. Player6, were you picturing the chemical that keeps the water clean, or the way it stings your eyes after you swim? 
+
+And Player1, when you said lane, did you specifically mean a swim lane marked off in the pool, or just any kind of lane? 
+
+Player0, relay—were you picturing a swimming relay with teams passing off in the pool, or thinking more generally about team races? 
+
+I went with swimsuit because I was picturing that tight gear we pull on before diving in for laps or a race. How is everyone else interpreting these?
+[20:20:17] Player 2: I’m noticing most clues here tie directly to how you swim or compete: lane, butterfly, freestyle, relay—those are all strokes or race formats. Swimsuit is gear you actually wear in the pool. But chlorine stands apart as the only chemical treatment rather than something you do or use in the act of swimming itself. When you said chlorine, Player 6, were you picturing the scent in the locker room, the pool maintenance side, or something else? It feels like a step removed from the sport. And just to be clear, when I said freestyle I was thinking specifically of that open stroke you see in competitions—the one without restrictions on technique. Does anyone else feel chlorine might be too peripheral here?
+[20:20:20] Player 0: I’m seeing a split: butterfly, freestyle and relay are dead-on swim strokes or events, and lane feels pretty pool-specific once you picture the lane lines. But chlorine and swimsuit lean more toward venue or gear in general—beach, spa or even cleaning chemicals. 
+
+Player 6, when you said chlorine, were you picturing that smell in the pool deck, the treated water itself, or something like a household bleach reference? Player 4, with swimsuit, were you thinking of a competition one-piece or just any suit you’d wear in water anywhere? 
+
+Also curious, Player 1 and Player 2—lane and freestyle could also apply to bike lanes or music styles if you squint. What exact scene did you have in mind? Let’s nail down those contexts before we vote.
+[20:21:21] Player 6: I’m solid on butterfly, freestyle and chlorine—they all scream pool swimming. But relay and lane feel a bit off to me. Player 0, when you said relay, were you picturing a swimming relay with teams and batons or more of a track-and-field style race? Player 1, with lane, did you mean the marked lanes in a pool or could it be any kind of lane—like traffic or bike lanes? And Player 4, swimsuit is swim gear but I could see that going beachy; were you imagining a competitive suit or something more casual? Does anyone else feel relay or lane are stretching the theme compared to the strokes and pool chem?
+[20:21:22] Player 5: I’m still seeing two camps: the action strokes—butterfly, freestyle, relay—and the environment/gear—lane, swimsuit, chlorine. Of those, chlorine sticks out as not part of the swim itself. Player6, can you tie chlorine directly to the act of swimming—like the burn in your eyes mid-lap—or were you thinking more about pool upkeep? Player0, for relay, were you picturing a swim-team exchange at the wall or a general team race? If relay is as swim-specific as butterfly and freestyle, then chlorine remains our odd one out. Unless Player6 can give a stronger swimming-action context, I’m leaning toward voting them. Anyone else?
+[20:21:24] Player 1: I meant a pool lane with the ropes marking each swimmer’s track—definitely swim-specific. For chlorine, I pictured that sharp sting in your eyes right after surfacing from a lap, the one you feel even in training—so to me it’s tied directly to the act of swimming, not just maintenance.
+
+Player 0, relay still bugs me: you could easily picture a track relay instead. If you really had our word, why choose relay over something like exchange or takeover, which feels more swim-specific? What exactly were you picturing in a swimming relay?
+
+And everyone, does relay seem as core to swimming as stroke or butterfly?
+[20:21:37] Player 0: I’m seeing two clusters: strokes/events (butterfly, freestyle, relay) and pool infrastructure/gear (lane, swimsuit). Chlorine doesn’t really fit either—it’s about maintenance, not the act of swimming. 
+
+Player6, when you said chlorine, were you picturing that sting in your eyes right as you finish a lap, or more the chemical you dump in to clean the water? 
+
+Player4, with swimsuit, were you thinking of that tight competition suit you pull on before a meet or just any swimwear? 
+
+Player1, lane—did you imagine the marked lanes in an Olympic pool or something broader like a bike lane? 
+
+Right now chlorine feels like the odd one out unless you can tie it directly into the swimming experience itself.
+[20:21:46] Player 4: I’m seeing two clusters: butterfly, freestyle, relay all describe swim actions or events, while lane, swimsuit, chlorine feel more like setting or gear. Of those three, chlorine strikes me as the odd one out—you don’t really “do” chlorine when you swim, you just experience it. 
+
+Player6, when you said chlorine, were you picturing the sting in your eyes after racing laps, or more the pool maintenance side of adding chemicals? 
+
+Player1, lane—was that strictly a marked swim lane in a pool, or could that be any road or track lane? 
+
+Player0, relay—were you picturing the swimmer-to-swimmer handoff in a pool relay, or just team races in general? 
+
+Right now I’m leaning toward suspicion on Player6 unless they can tie chlorine directly into the act of swimming itself. What do the rest of you think?
+[20:21:51] Player 2: I’m still zeroing in on chlorine as the odd one out. Butterfly, freestyle, relay are all about the actions or events, and even lane can be pretty pool-specific once you imagine those lane lines. Swimsuit at least ties directly to the gear you wear in the pool. But chlorine feels like maintenance, not part of the swim itself. 
+
+Player6, what scene exactly were you picturing when you said chlorine? The chemical treatment before anyone dives in, or the way it stings your eyes mid-lap? And Player4, just to be clear, your swimsuit was the tight racing suit you pull on before a race, not a beach or water-polo suit? Right now I’m leaning toward voting Player6 unless that chlorine can be justified as integral to the act of swimming rather than just the pool’s upkeep.
+[GAME] Round 2 completed
+
+[GAME] Starting Voting Round 2
+[20:21:56] Player 0: Voted for Player 6
+[20:22:05] Player 1: Voted for Player 6
+[20:22:09] Player 2: Voted for Player 6
+[20:22:22] Player 4: Voted for Player 6
+[20:22:27] Player 5: Voted for Player 6
+[20:22:34] Player 6: Voted for Player 0
+[GAME] Voting results: {6: 5, 0: 1}
+[GAME] Player 6 has been eliminated by vote!
+[20:22:34] Game: Player 6 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[20:22:46] Player 4: Said word: breaststroke
+[20:23:02] Player 2: Said word: backstroke
+[20:23:16] Player 1: Said word: kickboard
+[20:23:29] Player 0: Said word: cap
+[20:23:42] Player 5: Said word: fins
+[20:23:42] Round 3 has started! Round will end at 20:25:12
+[20:23:42] Players Alive: [0, 1, 2, 4, 5]
+[20:24:44] Player 0: I’m seeing two clusters: breaststroke/backstroke are strokes, while kickboard, cap and fins are gear. Of those three, fins feels the least tied to lap swimming—you’d usually see them in snorkeling or scuba rather than a swim meet or drill. Player 5, when you said fins, were you picturing pool training fins or general diving flippers? And Player 1, your kickboard—was that strictly the pool drill board? Player 2 and Player 4, do you agree fins feels out of place here? Unless fins is clearly a swim-training tool, I’m leaning toward Player 5.
+[20:24:48] Player 2: I’m noticing two clear strokes—breaststroke and backstroke—and three pieces of gear—kickboard, cap, fins. Kickboards and swim caps feel squarely tied to lap training, but fins could just as easily point to snorkeling or scuba. Player 5, what exactly were you picturing when you said “fins”? Were those training fins you slip on for lap sets, or something more like dive fins? And Player 0, when you said “cap,” was that the tight competition swim cap or any old pool hat? Right now fins sticks out as the odd one—would love some context before we lock anything in.
+[20:24:51] Player 4: I’m seeing two strokes—breaststroke and backstroke—and then three pieces of gear: kickboard, cap, and fins. Cap feels swim-specific, and kickboards at least are common in lap training, but fins could just as easily be scuba or snorkel gear. Player 5, what exact scene were you picturing with “fins”? Were these flippers for competitive swim training or more like diving fins? And Player 1, when you said kickboard, was that the basic training board everyone uses in swim lessons, or something more specialized? To me fins stick out as less central to the core act of swimming—does anyone else feel that way?
+[20:25:01] Player 1: I’m seeing two clear strokes—breaststroke and backstroke—and three pieces of gear: kickboard, cap, and fins. Kickboard is pretty swim-specific for training kicks. But cap and fins could fit other activities too. 
+
+Player 0, when you said cap, were you picturing that tight silicone or latex racing cap swimmers pull on for laps, or something more like a generic sun hat? 
+
+Player 5, with fins, were you thinking of the short training fins swimmers wear to work on their kick, or the long scuba-style flippers you’d use for diving? 
+
+Cap feels the most generic to me right now unless it was a swim-specific racing cap—does anyone else feel one of these gear clues stands out as odd?
+[20:25:29] Player 5: I’m seeing two clusters so far: breaststroke and backstroke are super specific swim techniques, and kickboard and fins feel like training or gear you strap on in the pool. But cap stood out to me as a bit broader—it could be a baseball cap or even just a sun hat, not necessarily the snug silicone swim caps we use in laps. 
+
+Player 0, when you said cap, were you picturing that tight racing swim cap we pull on to cut through the water, or something more general? 
+
+Player 1, with kickboard, were you thinking of that foam board you hold onto for leg drills in the pool, or something like a bodyboard you use at the beach? 
+
+And Player 4 and Player 2, just to be thorough, your strokes—breaststroke and backstroke—were you both picturing competitive pool strokes, right? 
+
+Cap feels like the weakest link unless there’s a very swim-specific context you had in mind. What do you all think?
+[20:25:52] Player 0: I’m still seeing two clusters—strokes (breaststroke/backstroke) and pool-specific gear (cap/kickboard). Fins feel like they could be snorkeling flippers rather than swim-training tools. Player 5, when you said “fins,” were you picturing those short, stiff training fins swimmers slip on for kick sets, or general diving flippers? Player 1, your kickboard—was that the standard foam drill board you use in lap practice? And Player 2 and Player 4, do you agree fins feel like the odd one out unless they’re explicitly pool-training fins? If fins aren’t integral to lap swimming drills, I’m leaning toward voting Player 5.
+[20:25:53] Player 2: I’m seeing the same split—breaststroke and backstroke are clearly swim strokes, and cap and kickboard feel like everyday pool items. Fins still stick out to me because they’re often SCUBA or snorkeling gear rather than lap-training tools. Player 5, were you picturing the short training fins swimmers slip on for drills, or something more like diving flippers? And Player 1, your kickboard—was that the basic foam board used in swim lessons, or a more specialized pull buoy style? Does anyone else feel fins leans away from the core lap‐swim context?
+[20:25:58] Player 1: I’m still hung up on these gear clues. Player 5, can you clarify exactly which fins you were picturing—those short training fins you slip on for kicking drills, or the long flippers you’d use for snorkeling or scuba? And Player 0, what kind of cap did you mean—the slim, snug racing cap swimmers pull on for lap swims, or a looser pool or beach cap? Neither cap nor fins feels unequivocally swim-specific until we nail that down. How is everyone else reading these?
+[20:26:14] Player 4: I’m seeing two clear strokes—breaststroke and backstroke—and then three pieces of gear—kickboard, cap, fins. Kickboard and cap both scream swim training or competition, but fins could go snorkeling or scuba. Player 5, when you said fins, were you picturing the short training fins swimmers actually slip on for lap drills, or more like full-length dive flippers? Player 1, for kickboard, did you mean that standard foam board used in swim lessons and sets? Player 0, cap—were you picturing the sleek racing cap you pull on for meets or just any old pool hat? If “fins” are just generic flippers, that feels out of place. I’m leaning toward Player 5 unless we get a strong swim-specific context. Does anyone see it differently?
+[GAME] Round 3 completed
+
+[GAME] Starting Voting Round 3
+[20:26:18] Player 0: Voted for Player 5
+[20:26:22] Player 1: Voted for Player 5
+[20:26:27] Player 2: Voted for Player 5
+[20:26:31] Player 4: Voted for Player 5
+[20:26:43] Player 5: Voted for Player 0
+[GAME] Voting results: {5: 4, 0: 1}
+[GAME] Player 5 has been eliminated by vote!
+[20:26:43] Game: Player 5 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[20:26:50] Player 0: Said word: float
+[20:26:56] Player 4: Said word: breath
+[20:27:12] Player 1: Said word: crawl
+[20:27:19] Player 2: Said word: kick
+[20:27:19] Round 4 has started! Round will end at 20:28:49
+[20:27:19] Players Alive: [0, 1, 2, 4]

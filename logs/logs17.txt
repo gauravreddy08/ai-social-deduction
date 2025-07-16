@@ -1,0 +1,99 @@
+🎮 Game started with 5 players
+🕵️ Mafia is Player: 3
+
+Game started with 5 players
+
+🔄 Starting round 1 (duration: 1.5 minutes)
+Starting round 1 (duration: 1.5 minutes)
+[20:36:06] Round 1 has started! Round will end at 20:37:36
+[20:36:06] Players Alive: [0, 1, 2, 3, 4]
+[20:36:30] Player 0: Alright, nobody wants to be first, but I'll get things moving. If you had to vote right now, who would you pick and why? No lurking—everyone answer. Let's see where people’s heads are at.
+[20:36:34] Player 2: Alright, five of us, one or two mafia in here hiding. Before anyone deflects, let’s get a baseline: everyone say who you’d vote for first, and why. No hedging. I'll go last. Let's see who tries to play safe.
+[20:36:50] Player 3: Alright, we’ve got five of us and it’s dead silent so far. Since nobody’s speaking up, let’s not waste time. I want to hear from everyone—especially Player 4, who’s always lurking in these games. For starters, can everyone say who they would eliminate right now, gut feeling only, and why? Silence is just as suspicious as talking too much, so let’s get some answers.
+[20:36:50] Player 0: Don't just echo someone else's answer to play it safe, either. If you’re innocent, give us your real thinking. If you just go with the crowd, I’m taking note.
+[20:36:54] Player 2: Okay, nobody wants to break the ice? Fine—someone’s gotta do it. I’m watching for who jumps in too fast with accusations, and who hangs back hoping not to get noticed. Five people at the start, so if we don’t talk, Mafia never gets caught. I want to hear what everyone thinks about random voting first round: does it help smoking out the Mafia, or does it just give them cover?
+[20:37:04] Player 1: Alright, nobody wants to go first, huh? Fine. Someone has to break the silence. If you don’t say anything, you’re just making it easy for the Mafia to hide, so let’s get something started. 
+
+Let’s go around and say who we’re most suspicious of right now and why. I’ll start: Player 3, you’re always quick to talk in other games, but you’re just lurking now. What gives? 
+
+And Player 2, you’ve barely said a word—what’s going on in your head? Don’t even think about coasting.
+[20:37:13] Player 2: Since nobody’s answered yet, let’s keep it simple: Player 3, you always get quiet at the start—so why are you typing now, but not saying anything? Everyone else, who are you watching? Player 0, you jumped right in. Why push for answers before anyone’s suspicious? And Player 4, you’re next—don’t wait to react, tell us your gut read.
+[20:37:16] Player 4: Alright, let’s not waste any time—too much silence only helps the Mafia, and I’m not dying because people want to play shy. Player 2, you usually jump right into conversations but you’re awfully quiet. That’s a little out of character, wouldn’t you say? And Player 1, you were quick to look at everyone else instead of sharing your own thoughts last game. What’s your read on how we start? I want to hear from everyone, especially those who think blending into the background makes them safe. Let’s go, names and reasons—who do you trust least, and who do you trust most so far?
+[20:37:28] Player 3: Let’s do this by name. I’ll start since I brought it up—if I *had* to pick right now, I’d say Player 1. You haven’t said a word yet, you always wait to see which way things are blowing, and that’s classic mafia cover. Give us something real, not just what’s safe. Your move.
+[20:37:34] Player 3: Gut feeling? Right now I'd be looking at Player 1. They're usually quick to jump in with theories or accusations, but they're quiet this round, waiting for everyone else to commit first. If you're a civilian, why the sudden change in approach? Seems like someone who doesn’t want to make the first move and risk exposure. Let's hear your explanation, Player 1.
+[20:37:35] Player 3: Just a heads up, it seems like both Player 0 and Player 2 want to go last when giving their votes—kind of funny, since they accused everyone else of wanting to play it safe first. If you’re both so eager for transparency, maybe one of you can actually go first instead? Curious to see if anyone hesitates when it’s actually their turn.
+[20:37:36] Player 0: Finally, people are typing. Before anyone gets clever: if three of you answer in a way that lines up too perfectly, I'm calling it out. Coordination this early screams mafia trying to avoid attention. And Player 2, you said you’d go last, so I’ll be watching to see if your “baseline” is just copying everyone else’s logic. No hiding in the back row this round.
+[20:37:41] Player 2: Since apparently I have to start the actual voting, here’s where I’m at: If I *had* to pick right now, I’d lean toward Player 1. You’ve been quiet so far—just watching everyone else push the conversation. Mafia loves to stay out of the line of fire early. But I could be convinced otherwise. Does anyone actually have a read, or are we about to nod and randomly dogpile someone?
+[20:37:44] Player 0: Good, finally some activity. Player 1 and Player 4, I want specifics. Don’t just say “no reads yet” or “too early.” That’s Mafia’s favorite line, stay vague and hope someone else takes heat. Be bold—if you pick wrong, own it. Indecision or hiding behind “not enough info” is a red flag this early. Player 2, since you wanted to go last, I’ll be watching for how you twist everyone’s answers into your own logic.
+[20:38:16] Player 1: I don’t trust how eager some of you suddenly got to demand answers the moment someone else took the first step. If we’re just copying each other and all demand “everyone speak,” the Mafia gets to blend right in. Player 0, you act like you’re trying to organize us, but it feels a little like you’re steering things without leaving any real opinions yourself. 
+
+Let’s force specifics—Player 4, you’ve said nothing yet. Give an actual name and reason or you’re just hiding. And Player 2, before you play the “I’m just analyzing” card, give an actual answer: Who would you vote right now and why? No dodging.
+[20:38:27] Player 2: Still waiting on Player 4. Every time we ask for gut reads, the quietest one in the group takes forever to answer. That’s classic Mafia move—hide in the background, let everyone else talk themselves into trouble. Anyone else notice how Player 0 and Player 1 both immediately tried to put pressure on other people but never actually committed to a target themselves? Feels like both are trying hard to look proactive but not make real enemies. 
+
+If I absolutely had to vote right now, gut says Player 4—silence this early is more dangerous than being too eager. But if Player 0 keeps dodging, I won’t forget that either.
+[20:38:39] Player 4: I’ll throw down my first name: Player 2. You’re usually all over these early rounds poking holes in everyone’s stories, but now you’re just flipping the question back onto people and circling the drain. That feels like someone trying too hard to look involved without actually putting anyone at risk. And Player 1, you call out “lurkers” a lot, but your whole plan is based on stuff from old games—pretty convenient memory for Day 1. 
+
+If I had to trust someone just a little, it’d be Player 0 right now for getting people talking instead of just riding the sidelines. But nobody’s cleared yet. Round one and already plenty of dodging—so let’s see who actually answers the hard questions instead of playing safe.
+[20:38:49] Player 3: Here’s what I’m noticing—everyone’s pointing fingers but dodging the real talk. Player 2, you’ve been riding the fence this whole time, flipping between accusing me and Player 0 without planting a real vote. That’s what Mafia does: wait to see who the easy target is and then pile on. And Player 0, you’re eager to call out “echoing,” like you know the motives behind silence *and* speaking up. If we’re just pointing out who’s waiting in the shadows, look at who’s suddenly an expert at reading everyone’s motives. I say Player 2 is my top pick for now—hedging, deflecting, and giving themselves room to jump whichever way’s safest. Prove me wrong.
+[20:38:54] Player 3: Look at this—everyone immediately turning the spotlight on whoever dares to speak up. If you’re innocent, you want answers, not silence. Notice who’s dodging by just echoing “let’s see what everyone thinks” without putting real suspicion out there. I’m not afraid of being called out, because at least I’m saying something concrete. Right now, the ones tossing questions but avoiding actual accusations—Player 2 and Player 4, that’s both of you—are screaming safe play, and that’s a Mafia favorite move. So, to answer: I trust Player 0 most so far—they’re actually trying to shake up the group. I distrust Player 1, because they only piped up after I called them out, and Player 2 for dancing around the edges. But let’s hear reasons, not just finger-pointing.
+[20:39:04] Player 3: So far, the people talking the loudest are the ones trying the hardest to look innocent. Look at the timing: Player 0 and Player 2 both put pressure on everyone else but never gave a real read of their own—they keep tossing it around without ever committing. If you’re town, you want names and reasons, not just “let’s hear from everyone else.” Player 2 especially dances around, calling people out for silence and then saying nothing concrete. If you want to smoke out Mafia, you actually take a stance. Player 1, I’m calling you out for lurking, but my eye is on 2 and 0 for slippery play. Player 4, you took forever to join, but at least you’re giving names. Let’s get everyone’s top suspect *and* an actual reason on the table right now. No more hiding in consensus.
+✅ Round 1 completed
+Round 1 completed
+
+🗳️ Starting voting round...
+Starting voting round
+[20:39:06] Player 0: Voted for Player 2
+[20:39:07] Player 1: Voted for Player 2
+[20:39:08] Player 2: Voted for Player 4
+[20:39:09] Player 3: Voted for Player 2
+[20:39:10] Player 4: Voted for Player 2
+📊 Voting results: {2: 4, 4: 1}
+❌ Player 2 has been eliminated by vote!
+Player 2 has been eliminated by vote!
+[20:39:10] Game: Player 2 has been eliminated!
+
+🔪 Mafia is choosing a victim...
+Mafia is choosing a victim...
+☠️ Player 0 has been killed by the Mafia!
+Player 0 has been killed by the Mafia!
+[20:39:11] Game: Player 0 has been killed by the Mafia!
+
+🔄 Starting round 2 (duration: 1.5 minutes)
+Starting round 2 (duration: 1.5 minutes)
+[20:39:11] Round 2 has started! Round will end at 20:40:41
+[20:39:11] Players Alive: [1, 3, 4]
+[20:41:00] Player 1: Alright, we’re down to three—no more hiding, and no more vague “gut” reads; whoever’s Mafia wins if we don’t get it right. Here’s what I see: Player 3 spent all of Round 1 giving out reads on everyone but always with just enough room to backpedal. You called out literally every player at least once, which is weirdly convenient when it comes to shifting votes.
+
+Player 4, you finally threw down a name last round but only after being prodded over and over. That’s what Mafia does: stalls, waits to see which way the wind blows, jumps on the safe bandwagon. You’re still my top suspect.
+
+Here’s my plan: let’s all say who our biggest suspect is *right now* and why, then commit. No more endless “let’s circle back.” Put it all on the table: if you vote quietly or try to hedge, that’s a red flag. I’m ready to name my vote, but I want both of you on record first. No more coasting.
+[20:41:06] Player 4: Alright, so we just knocked out Player 2 and the Mafia immediately targeted Player 0—the one person pretty much everyone agreed was pushing the group, not playing on the sidelines. That says something: Mafia wanted the most vocal, least subtle person out of the way, hoping it’d leave us in chaos. 
+
+Now, Player 3, you jumped on Player 2 with the same logic as everyone else, but you also spent a lot of time hedging your bets and spreading suspicion around. And Player 1, you only really took a stance after it was safe and the group had already turned. 
+
+If either of you tries to just slide by or “wait and see” now, I’m calling it out. Let’s not play slow—let’s hear: why did the Mafia take out Player 0 instead of any of us? Who do you think benefits most with them gone? If you’re a civilian, you’ll have real thoughts instead of just echoing old logic. Let’s hear something bold; whoever tries to coast now is getting my vote.
+[20:41:55] Player 3: There goes one of the most slippery ones, and the Mafia didn’t waste any time making things even more chaotic. Three of us left. You know what’s funny? Both our loudest talkers just got wiped out in the same cycle—one by vote, the other by Mafia. That leaves us with the two people who took the longest to actually commit, and me, who’s apparently everyone’s favorite early target.
+
+Here’s what I think: If I were Mafia, there’s no way I’d kill Player 0—they were the one person getting a real conversation going and making everyone put their cards on the table. That just paints a bigger target on my own back after all that finger-pointing last round. The people who quietly wait for a blowup and dive in with “Well, look at how aggressive everyone else is” are the ones that skate through.
+
+So let’s put it out there: Player 4, last round you barely scraped together an answer after being called out, and your one real accusation was a predictable “Player 2 is dodging.” If you’re really town, give us more than safe waffling. Player 1, you jumped on the bandwagon with barely a real reason, just calling out “lurking” right after you yourself were called on the carpet.
+
+Lay it all out—if you’re innocent, make your case. Who should go next, and why? I want specifics, not just echoes of last round. Let’s see who tries to blend in now that it’s down to the end.
+✅ Round 2 completed
+Round 2 completed
+
+🗳️ Starting voting round...
+Starting voting round
+[20:41:57] Player 1: Voted for Player 4
+[20:41:58] Player 3: Voted for Player 4
+[20:41:59] Player 4: Voted for Player 1
+📊 Voting results: {4: 2, 1: 1}
+❌ Player 4 has been eliminated by vote!
+Player 4 has been eliminated by vote!
+[20:41:59] Game: Player 4 has been eliminated!
+
+🔪 Mafia is choosing a victim...
+Mafia is choosing a victim...
+☠️ Player 1 has been killed by the Mafia!
+Player 1 has been killed by the Mafia!
+[20:42:00] Game: Player 1 has been killed by the Mafia!

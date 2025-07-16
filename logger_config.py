@@ -25,15 +25,9 @@ def setup_logging(game_name="game", log_dir="logs"):
     logger.handlers.clear()
     
     # Create formatters
-    detailed_formatter = logging.Formatter(
-        '[%(asctime)s] %(name)s - %(levelname)s - %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S'
-    )
+    detailed_formatter = logging.Formatter('%(message)s')
     
-    simple_formatter = logging.Formatter(
-        '[%(asctime)s] %(message)s',
-        datefmt='%H:%M:%S'
-    )
+    simple_formatter = logging.Formatter('%(message)s')
     
     # Console handler (INFO and above)
     console_handler = logging.StreamHandler()

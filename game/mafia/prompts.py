@@ -33,7 +33,8 @@ Examples of INCORRECT voting format:
 - "3" (WRONG - includes quotes)
 - I vote for 3 (WRONG - includes extra text)
 
-OUTPUT ONLY THE NUMBER OF THE PLAYER YOU WANT TO ELIMINATE."""
+OUTPUT ONLY THE NUMBER OF THE PLAYER YOU WANT TO ELIMINATE.
+"""
 
 KILL_PROMPT = """
 

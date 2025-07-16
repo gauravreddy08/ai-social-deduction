@@ -23,8 +23,8 @@ class Context:
     async def add_message(self, from_user: str, message: str) -> None:
         timestamp = self._get_timestamp()
         formatted_message = f"[{timestamp}] {from_user}: {message}"
-        print(formatted_message)  # Print to console
-        self.logger.info(f"{from_user}: {message}")
+        print(formatted_message, end="\n")  # Print to console
+        self.logger.debug(formatted_message)
         async with self.lock:    
             self.messages += formatted_message + "\n"
             if from_user in self.buffer:
@@ -33,8 +33,6 @@ class Context:
     async def add_typing(self, from_user: str) -> None:
         async with self.lock:
             self.buffer.add(from_user)
-        # Don't print typing indicators, just log them
-        self.logger.debug(f"{from_user} is typing...")
     
     def _get_timestamp(self) -> str:
         return datetime.now().strftime("%H:%M:%S")
@@ -55,8 +53,8 @@ class Context:
             print(f"[{timestamp}] Round {round_num} has started! Round will end at {end_time}")
             print(f"[{timestamp}] Players Alive: {players}")
             
-            self.logger.info(f"Round {round_num} started! Duration: {round_duration} minutes")
-            self.logger.info(f"Players alive: {players}")
+            self.logger.debug(f"Round {round_num} started! Duration: {round_duration} minutes")
+            self.logger.debug(f"Players alive: {players}")
             
             content = f"[{timestamp}] Round {round_num} has started! Round will end at {end_time}\n"
             content += f"[{timestamp}] Players Alive: {players}\n"

@@ -1,0 +1,54 @@
+Undercover Game Starting...
+Game started with 7 players
+Imposters are Players: {2}
+Every Player will say their clue word...
+[23:24:46] Player 3: Said word: rescue
+[23:24:47] Player 5: Said word: hose
+[23:24:48] Player 0: Said word: helmet
+[23:24:49] Player 6: Said word: ladder
+[23:24:50] Player 2: Said word: smoke
+[23:24:50] Player 4: Said word: truck
+[23:24:51] Player 1: Said word: uniform
+Round 1 started! Duration: 1.5 minutes
+Players alive: [0, 1, 2, 3, 4, 5, 6]
+[23:25:17] Player 0: Interesting spread of words. I feel like everyone gave something relevant, but Player 3’s word, “rescue,” is a bit more general compared to the rest of us who leaned into equipment or gear. Anyone else get that feeling?
+[23:25:17] Player 1: Everyone’s clues are pretty on point, but I’m not sure about “rescue” from Player 3—it’s connected, but it’s the broadest clue here and could fit a few words. Player 3, can you explain what made you pick that?
+[23:25:23] Player 4: Interesting. I feel like most of us are dancing around the same central idea, but Player 3’s word feels noticeably more general than the rest. “Rescue” could apply to almost anything, but “truck,” “hose,” “ladder,” all seem really specific. Player 3, can you explain your thought process?
+[23:25:27] Player 5: Alright, so everyone gave words that fit the theme, but Player 3's clue—rescue—feels a little vague compared to everyone else. The rest of us named specific gear or things connected to the job, but "rescue" could fit way more occupations. That makes me suspicious of Player 3 already. Anyone else feel the same?
+[23:25:34] Player 6: Player 5, your clue was super specific—almost too on-the-nose this early. Do you actually know what the word is, or are you just guessing based on what everyone else might say? Also, Player 3, “rescue” is kind of a safe answer, anyone could guess that in a ton of situations. Anyone else feel like those two are keeping things a bit too general?
+[23:25:34] Player 2: All of these clues kind of fit together, but a couple stand out as a little too obvious. Player 5's word, hose, is super specific compared to the rest. I feel like if you were trying to blend in, you’d pick something less on the nose. Was that a slip, or am I overthinking it? What made you choose that, Player 5?
+[23:25:35] Player 3: All these clues are pretty solid, but Player 2’s word stands out a bit. “Smoke” isn’t wrong, but it could be from someone guessing based on a general association instead of really knowing. At the same time, did anyone else feel Player 5’s “hose” was a bit on-the-nose? I’m not sure if that’s trying too hard or just being direct. What do you guys think?
+[23:25:56] Player 0: Player 3, what made you go with “rescue” instead of naming anything specific like gear or actions you’d directly associate with our word? Most of us focused on something tangible or visual, but yours was super general. Just curious about your reasoning. Anyone else think that stands out a bit?
+[23:25:58] Player 1: Now that I’m looking at the list, almost everyone mentioned specific things you’d recognize at the scene, like “helmet,” “hose,” or “truck.” “Rescue” kind of stands out since it could apply to a ton of jobs or situations. I’m leaning suspicious of Player 3 too, unless you’ve got something solid to back it up?
+[23:26:00] Player 4: I’m watching how Player 3 answers, but I also want to say Player 2’s clue, “smoke,” feels a little ambiguous compared to the rest. “Helmet,” “uniform,” and “hose” are solid, but isn’t “smoke” something you find in a lot of different situations? Player 2, can you clarify your connection?
+[23:26:19] Player 5: Seems like everyone is circling the same suspicion. I think it’s telling that all the rest of us named items you physically use, while “rescue” is more about the action and not so much tied to the specific word we most likely have. If Player 3 can’t give a better explanation, I’d be down to vote them. Does anyone else have theories, or did someone else’s clue stand out as odd?
+[23:26:27] Player 6: I agree with the majority here—“rescue” feels like the easiest answer to throw out if you only had a rough idea of the group’s word. Most of us focused on tools or specific elements tied tightly to the job, but only Player 3 went broad enough that it could apply to tons of roles. If you had the actual word, wouldn’t you lean into something more concrete? I’m definitely keeping an eye on Player 3.
+[23:26:28] Player 2: Player 3, I get your point about my clue, but I actually went with "smoke" because it fits the job itself and isn't as obvious as saying something like "fire" or repeating equipment. But honestly, Player 4, your word "truck" seems awfully safe—kind of one of those catch-all answers anyone could use if they were fishing for the theme. Can you explain why you didn’t get more specific, especially after seeing "helmet," "hose," and "ladder" come up?
+[23:26:39] Player 4: Let’s not ignore Player 6 either—calling out someone for being too specific is a bit odd, since being specific usually helps prove you know the word. I’m not saying 6 is definitely suspicious, but deflecting suspicion from a vague answer like “rescue” could be a tactic. Can you clarify what you meant by that, Player 6?
+[23:26:57] Player 0: I want to hear from Player 2 as well—your clue “smoke” fits, but feels more like an effect than something directly linked to the job itself. Are you leaning towards anyone being suspicious yet? And Player 5, how confident do you feel about throwing such a specific word out? If you’re a Civilian, that’s bold. If not, it’s a risk. I feel like Player 3 still stands out for staying broad, but I don’t want to tunnel vision. Would anyone here say they trust someone completely based on these clues?
+[23:26:58] Player 3: Alright, since everyone’s coming for my clue, I’ll explain. I picked “rescue” because it’s basically what the job is built around—it’s what they do, not what they use, but it’s still core to the role. I could’ve dropped a tool, but I didn’t want to straight up repeat what everyone else was probably going to say, and I wanted to avoid making it too easy for impostors to latch on.
+
+But if we’re calling out general clues, “smoke” could literally fit a bunch of jobs or situations—chefs, campers, even magicians. So Player 2, what made you go with “smoke”? Not saying you’re the impostor, but your clue feels just as open as mine. Let’s not just dogpile me and let someone slide.
+[23:27:02] Player 1: It seems like most of us agree that Player 3’s answer is the least specific here. I’m willing to keep listening, but so far it feels like “rescue” is trying to play it safe without naming anything tangible, which is what an Impostor would have to do. Unless there’s a strong explanation coming, Player 3’s got my eye. Also, Player 2, “smoke” makes sense in this context, but I’d like to hear more about how you landed on that choice too. Anyone else getting weird vibes from either of them?
+Round 1 completed
+Starting Voting Round 1
+[23:27:03] Player 0: Voted for Player 3
+[23:27:04] Player 1: Voted for Player 3
+[23:27:05] Player 2: Voted for Player 3
+[23:27:08] Player 3: Voted for Player 2
+[23:27:09] Player 4: Voted for Player 3
+[23:27:10] Player 5: Voted for Player 3
+[23:27:11] Player 6: Voted for Player 3
+Voting results: {3: 6, 2: 1}
+Player 3 has been eliminated by vote!
+[23:27:11] Game: Player 3 has been eliminated!
+Every Player will say their clue word...
+[23:27:12] Player 5: Said word: alarm
+[23:27:15] Player 2: Said word: rescue
+[23:27:16] Player 4: Said word: hydrant
+[23:27:18] Player 6: Said word: extinguisher
+[23:27:19] Player 0: Said word: rescue
+[23:27:20] Player 1: Said word: emergency
+Round 2 started! Duration: 1.5 minutes
+Players alive: [0, 1, 2, 4, 5, 6]
+[23:28:05] Player 0: Alright, I’m going with “rescue” this round because it fits directly with the job’s purpose, but I want to see what everyone else does with their next clue. Player 2, you doubled my word—was that intentional or are you trying to blend in by matching? And Player 6, “extinguisher” is super specific, which I like. Anyone feel like the vibe shifted now that Player 3 is gone?

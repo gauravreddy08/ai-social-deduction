@@ -1,0 +1,181 @@
+
+[HIDDEN INFO] Imposters: {5}
+
+[HIDDEN INFO] The Civilian's word is: Badminton
+
+[GAME] Every Player will say their clue word randomly...
+[23:34:20] Player 4: Said word: shuttle
+[23:34:21] Player 0: Said word: racket
+[23:34:22] Player 1: Said word: court
+[23:34:23] Player 5: Said word: net
+[23:34:24] Player 3: Said word: feather
+[23:34:29] Player 6: Said word: serve
+[23:34:30] Player 2: Said word: smash
+[23:34:30] Round 1 has started! Round will end at 23:36:00
+[23:34:30] Players Alive: [0, 1, 2, 3, 4, 5, 6]
+[23:35:15] Player 6: Looking over the clues, nobody seems to have gone way off track, but I do think feather is a little unexpected. Most of us chose words directly connected to equipment or actions, but feather feels more like a detail about one part. It’s legit, but maybe a little too specific if you didn’t know exactly what we’re talking about. What made you go with feather, Player 3?
+[23:35:18] Player 0: Okay, so looking at everyone's clues, nothing jumps out as super suspicious right away—they're all connected to the word. But I am curious about Player 3's clue, "feather." I know there's a link, but it's not the most common association you’d mention upfront. Anyone else feel like that one sticks out compared to the more straightforward clues like "net" or "court"? Player 3, what made you choose "feather" specifically?
+[23:35:20] Player 1: Alright, just based on the first round of clues, I feel like everyone’s word lines up pretty well with the theme so far, but "feather" from Player 3 stands out as a bit risky. It technically makes sense if you know specifics, but it could also be an attempt by an impostor to use a word that feels connected but isn’t too obvious. What do people think about "feather" compared to the rest?
+[23:35:25] Player 4: Okay, so everyone’s clues actually fit pretty well with the word I have in mind. The only one I’m a little uncertain about is Player 3 with “feather”—I can see the connection, but it does feel slightly off compared to the rest. “Shuttle,” “racket,” “net,” and so on all point to the same thing for me, but “feather” could be someone guessing based on hearing others or just making a wild connection. Player 3, can you explain your thinking with that clue?
+[23:35:31] Player 5: Alright, some of these clues are super tightly connected. I feel like a lot of us are circling the same theme, but what caught my attention is how many people are using objects and actions that could technically fit multiple sports. For example, shuttle and feather are both pretty specific, but then there's smash, which seems a bit broader, at least to me. 
+
+I'm curious, Player 2, what made you go with smash? Were you thinking about the movement, or is there something more specific you had in mind?
+[23:35:45] Player 3: Okay, can I just say, all the clues actually make sense for the word we probably have. The only one that stands out slightly is maybe Player 0 with "racket," just because that's a bit broader—could also be tennis or squash, for example. Everyone else went pretty specific. Player 4 saying "shuttle" and Player 5 "net" are both spot-on, but "feather" seems a little more abstract, so I'm curious if anyone thought that was suspicious or if that's within bounds for what we have. I'm leaning towards thinking everyone might be on the same page, but I'd like to hear what people thought about the clues—did any feel off to anyone?
+[23:36:13] Player 2: Alright, immediately I feel like all the clues fit pretty well around the same theme. But Player 3’s word “feather” stands out a bit because it’s not as directly tied to the main things people think about—most people chose equipment or places. Feather relates to the shuttlecock, but it’s a more indirect connection. 
+
+At the same time, Player 5’s “net” and Player 1’s “court” feel pretty safe, like you could throw those out for several different sports.
+
+I want to ask Player 3: why did you choose “feather” instead of just going for something like “shuttle” or “racket,” since those were already named? Were you trying to be specific, or holding back to avoid sounding too obvious? 
+
+Also, for everyone else, do we think “serve” might be a bit generic, or is it specific enough for what we’re aiming for? I’m slightly leaning toward “feather” as potentially risky, but I’d like to hear more.
+[23:36:15] Player 4: I still think it’s interesting how everyone else picked either a piece of equipment or a major action, but “feather” is more about a material. It’s not wrong, but if you didn’t know our exact word, you might use that to fit in. Player 3, did you think about going with something more direct, or was “feather” the first thing that came to mind for you?
+[23:36:16] Player 0: That’s a good point, Player 6. “Feather” definitely relates to the game, but most people wouldn’t jump to that as their first clue unless they were trying to avoid being too obvious—or maybe didn’t have the full picture. Player 3, were you worried “feather” might seem out of place? Also, Player 4, “shuttle” is super on the nose. I’m just making sure—did you get worried about giving away too much there, or did you feel confident we’d all be on the same page?
+[23:36:20] Player 6: It’s interesting that both Player 0 and I zoned in on feather, and I agree it’s not the first thing most people would mention for this context. Everyone else focused on the main elements: equipment, location, a key action. Feather is a true connection if you know the word, but it’s almost like trying to prove you’re knowledgeable—maybe to cover for not having a word to work with? I’m still open minded, but Player 3, does feather mean something else to you besides what we’re all probably thinking?
+[23:36:26] Player 1: Actually, now that I’m looking over everything again, "feather" could go both ways. It’s super specific—maybe even a little too on-the-nose for round one? But then again, it’s definitely related if you know the word, so I could see a civilian taking that risk. I’m a bit more suspicious of anyone who played it really safe, honestly. For example, "net" and "court" are both spot-on, but I’m not sure if that’s being careful or just genuine. Anyone else think being too generic could also be a sign someone’s hiding something?
+[23:36:26] Player 5: So after hearing everyone’s thoughts about feather, I kind of get where you’re all coming from—it is less obvious than, say, court or net. But now I’m looking at serve as well, because that could apply to a few other sports, not just this one. I’d like to hear from Player 6: what made you pick serve over a more unique detail? Especially since everyone’s watching for clues that might be too general or stretched.
+[23:37:23] Player 3: I picked "feather" because it's a distinct feature tied specifically to the shuttlecock, which is unique to our word and really separates it from sports like tennis or squash. If you know the word, "feather" should instantly click, but if you don't, it's not the first thing you'd guess. Honestly, mentioning it felt risky, but I thought it showed I knew the actual specifics around the game, not just the generic parts like net or racket. 
+
+But now I'm looking at "racket" and "court"—they could go with a bunch of sports, so compared to those, isn't "feather" actually more narrow and less safe? I get why it feels weird, but I want to know if people think the really broad clues are less risky. And Player 2, I'm also curious why you went for "smash"—were you trying to be specific, or was there another reason?
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[23:37:24] Player 0: Voted for Player 3
+[23:37:25] Player 1: Voted for Player 3
+[23:37:27] Player 2: Voted for Player 3
+[23:37:28] Player 3: Voted for Player 0
+[23:37:29] Player 4: Voted for Player 3
+[23:37:30] Player 5: Voted for Player 3
+[23:37:32] Player 6: Voted for Player 3
+[GAME] Voting results: {3: 6, 0: 1}
+[GAME] Player 3 has been eliminated by vote!
+[23:37:32] Game: Player 3 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[23:37:33] Player 5: Said word: singles
+[23:37:34] Player 2: Said word: doubles
+[23:37:35] Player 6: Said word: birdie
+[23:37:36] Player 0: Said word: grip
+[23:37:37] Player 4: Said word: drive
+[23:37:38] Player 1: Said word: rally
+[23:37:38] Round 2 has started! Round will end at 23:39:08
+[23:37:38] Players Alive: [0, 1, 2, 4, 5, 6]
+[23:38:55] Player 5: Okay, this round the clues feel even more varied. Some people went with game formats—like singles and doubles—then there’s birdie and drive, which are both specific to key aspects of the game. 
+
+What stands out to me is grip, though. Most of us focused on either play styles or things that directly relate to how points are scored. Grip feels more fundamental, but maybe it’s a little off since it’s about the way you hold something rather than an action or a game mode.
+
+Player 0, can you walk us through your thinking with grip? Did you feel it was the most direct connection, or were you trying not to overlap with words already taken?
+[23:39:01] Player 1: Okay, after that round, I feel like all the new clues keep lining up really well with our word—singles, doubles, birdie, grip, drive, rally. No one’s dropped anything that sounds off or like they’re reaching for a connection. If I had to nitpick, “birdie” from Player 6 is almost another name for the shuttlecock, so it makes sense, but part of me wonders if it’s doubling down on what already got noticed last round. 
+
+I’m curious if anyone thinks that any clue this round feels too “safe” or maybe like someone’s trying to blend in after seeing what happened to Player 3? I personally feel like everyone is still on track, but maybe I’m missing something subtle. What do you all think?
+[23:39:04] Player 0: Interesting—everyone’s clues this round seem even more on target. “Singles,” “doubles,” “birdie,” “drive,” “rally”—all terms closely tied to the game itself, and honestly, nothing jumps out as suspiciously off or forced. 
+
+I do want to point out, though, that “birdie” from Player 6 is basically another word for “shuttle,” which we already had last round. Not saying it’s wrong at all, but it is doubling down on the specifics. Do you think that’s helping to blend in, or maybe just trying to be as clear as possible? 
+
+Also, Player 5, “singles” could technically fit a few different sports, but paired with “doubles,” it fits the pattern here. Anyone else noticing any subtle attempts to play it safe or is everyone feeling good about this round of clues?
+[23:39:14] Player 2: Looking at all the round 2 clues, I feel like we’re still pretty consistent with the theme—“birdie,” “doubles,” “singles,” “drive,” “grip,” “rally”—everything lines up with specifics of our word. I do want to check in on “grip” from Player 0, though. I get that it’s relevant, but it’s the only one that’s more about technique and less about formats or objects. I’d like to hear your reasoning—why “grip” at this stage? Were you just trying not to repeat the more obvious connections, or is there another reason you picked that word?
+
+On the flip side, “birdie” from Player 6 is another word for “shuttle,” but I could see someone unfamiliar trying to use both just to cover their bases. Still, overall, everything is fitting for now—I’d only ask everyone: did any clue feel like a stretch or too safe compared to round 1?
+[23:39:16] Player 6: Now that we’ve done another round, I’m looking for anyone who might be coasting, since round one focused so much on Player 3. All the new clues seem pretty tight to the word. “Birdie” and “singles/doubles” are terms you’d only really say if you knew exactly what we’re talking about, and “grip” and “drive” both definitely fit the gameplay. No one is sticking out, but I’m curious: Player 0, your clues are always equipment-related, first “racket” and now “grip.” Is that intentional, or is there a reason you’re not branching out to other aspects of the game? 
+
+Also, Player 5, between “net” last round and “singles” now, I feel like you’re keeping to basics. Are you trying not to give too much away, or is that just how you’re thinking about it? Just trying to start the discussion since things are less obvious this time.
+[23:39:17] Player 4: Alright, looking at this round’s clues, I’d say we’re still circling the same theme, and everything said so far feels pretty in line with our word. “Singles” and “doubles” from Players 5 and 2 are both super relevant, and “birdie” from Player 6 matches as well. “Grip,” “drive,” and “rally” are all things you think about pretty quickly with this sport.
+
+No one’s clue jumped out as totally off, but maybe “grip” is a little broader than the others—it’s definitely part of our equipment, but could technically fit with a couple other sports too. I’m not saying it’s suspicious yet, but I want to hear from Player 0: did you pick “grip” because you wanted to cover the technique side, or was that just the first thing that came to mind? Also, does anyone else think any clue here stretches the theme, or are we all locked in?
+[23:39:48] Player 5: I’m also curious about “birdie” from Player 6. We already had “feather” and “shuttle” earlier, so why go with another term for basically the same thing? Were you hoping to reinforce the association with a specific object in the game, or did you feel it was too risky to bring up something totally new? Just interested in the reasoning, since a couple of us went broader with formats and actions this round.
+[23:40:32] Player 0: Yeah, I’ll explain my thinking for “grip.” Most of the obvious game-specific terms were already out there—like shuttle, net, court, and then singles/doubles this round—so I wanted to say something clearly relevant, but not repetitive or suspiciously broad. Grip is a pretty big deal in this game and gets taught to every beginner, and it’s different from how you’d hold equipment in other racquet sports. 
+
+If I’d picked something like “serve” or “match,” it could easily apply to tennis or ping pong, but grip is almost a badge for this game. Curious if you all think that’s too niche or if it actually helps narrow things in. Also, Player 2, did you intentionally pair “doubles” with Player 5’s “singles,” or was that just coincidence?
+[23:40:58] Player 1: I actually like that we’re being kind of picky, because at this point anyone trying to fake it will have to get real creative. Looking at grip, I get what Player 5 is saying—it’s definitely a part of the game, but you could say that about tennis or table tennis too. On the flip side, drive and rally are both super tied to our word, so I lean toward trusting those.
+
+Also, singles and doubles are completely on theme—they’re not just technical, they’re game modes unique to a small group of sports, and they line up perfectly here. If anything, I’d be more curious about clues that are just “around the edges” of the game, if that makes sense.
+
+If I had to question something, it’d actually be birdie—it’s specific, but after last round with feather and shuttle, maybe repeating a similar idea is an attempt to ride that wave safely. What do the rest of you think? Anyone getting weird vibes from someone playing it too safe or just echoing past clues?
+[GAME] Round 2 completed
+
+[GAME] Starting Voting Round 2
+[23:41:00] Player 0: Voted for Player 6
+[23:41:01] Player 1: Voted for Player 6
+[23:41:03] Player 2: Voted for Player 6
+[23:41:04] Player 4: Voted for Player 6
+[23:41:05] Player 5: Voted for Player 6
+[23:41:06] Player 6: Voted for Player 0
+[GAME] Voting results: {6: 5, 0: 1}
+[GAME] Player 6 has been eliminated by vote!
+[23:41:06] Game: Player 6 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[23:41:07] Player 4: Said word: clear
+[23:41:08] Player 0: Said word: backhand
+[23:41:09] Player 5: Said word: dropshot
+[23:41:10] Player 2: Said word: netting
+[23:41:12] Player 1: Said word: fast
+[23:41:12] Round 3 has started! Round will end at 23:42:42
+[23:41:12] Players Alive: [0, 1, 2, 4, 5]
+[23:42:42] Player 5: Now that we’re in round three, I’m starting to notice how the clues are narrowing in on more technical aspects of the game. “Clear,” “backhand,” “dropshot,” and “netting” all point right at gameplay. The one outlier is “fast” from Player 1. I get that the game is quick-paced, but compared to the other clues—which are all specific shots or techniques—it stands out for being more about the tempo than the mechanics.
+
+Player 1, did you go with “fast” because you wanted to mix it up, or were you hesitant to pick a move or technique after so many direct references? Just trying to gauge your thought process since, at this point, being vague could be a way to play it safe. Would anyone else here have chosen a more general quality over a specific term?
+[23:42:43] Player 1: This round’s clues all sound legit to me—clear, backhand, dropshot, netting—they’re specific moves or shots directly tied to what we’re all thinking. I went with “fast” because, honestly, the speed of the rally in this game is one of the first things people notice, and I wanted something describing the play itself, not just the shots.
+
+If I had to pick at anything, maybe “netting” feels a little broader, since it could refer to equipment or action depending on the context, but it’s still close. Does anyone else feel like someone’s getting a little vague, or do you think we’re all still too tightly in sync for an impostor to have slipped through? I’m starting to think we might actually all be civilians after those last couple of rounds, but there might be something I’m missing.
+[23:42:47] Player 4: Looking at the clues this round, I have to say, everything still feels completely tied into what I’m thinking. “Backhand,” “dropshot,” “clear,” “netting”—all core parts of the game, and even “fast” from Player 1 makes sense when you think about the pace these rallies can get up to. 
+
+If I had to focus anywhere, “fast” is the only one that’s a little more descriptive than technical compared to the others, but it’s definitely a word you’d use for this sport. Player 1, what made you go for something about speed instead of a technique or shot type? Just curious if you were wary of repeating terms, or if you think “fast” says something unique about our word.
+
+For everyone else, does anything stand out as a reach this time? Or do we think we’ve got an impostor just blending in really well?
+[23:43:09] Player 0: Just looking at this batch, it keeps feeling like we’re all drilling deeper into real aspects of the game. “Clear,” “dropshot,” “backhand,” “netting”—those are very much real moves or terms you’d only know if you actually had the right word. “Fast” from Player 1 is a tiny bit more general, I guess, but it actually fits since this sport is known for its speed. 
+
+Nothing here jumps out as off to me—certainly not like someone reaching for related sports. If I’m being super picky, “netting” from Player 2 is the only one that’s not 100% a standard move, but it fits the net play part of the game. I’m not getting impostor vibes from any single clue, but I am curious: Player 2, was “netting” just the first move you thought of, or did you pick it to avoid overlap? And Player 1, did you go for “fast” because you didn’t want to double up on moves? 
+
+Anyone else see something I’m missing, or does it sound like we’re all still in the clear?
+[23:43:09] Player 2: Okay, now that we’re deep into the game and the clues have gotten even more specific, I’m looking for anything that sounds like a stretch to keep up. "Clear," "backhand," and "dropshot" are all textbook terms for this sport; they make a tight group, and honestly, I’d be shocked if someone faked those without knowing the word. I went with "netting" to keep it focused on the key techniques, and "fast" from Player 1 catches my attention—it’s definitely an attribute, but it’s not a technical term the way the rest are. 
+
+Player 1, can you walk me through your pick? Were you aiming for an overall description, or was there a specific moment that made "fast" your go-to word? I’m not accusing yet, just trying to see whether it was a deliberate move to stay general while the rest of us are getting super specific. 
+
+Also, curious to hear if anyone thought any of these new clues sounded a little forced or too simple, especially compared to how niche the rest of us are getting.
+[GAME] Round 3 completed
+
+[GAME] Starting Voting Round 3
+[23:43:11] Player 0: Voted for Player 1
+[23:43:12] Player 1: Voted for Player 2
+[23:43:14] Player 2: Voted for Player 1
+[23:43:15] Player 4: Voted for Player 1
+[23:43:16] Player 5: Voted for Player 1
+[GAME] Voting results: {1: 4, 2: 1}
+[GAME] Player 1 has been eliminated by vote!
+[23:43:16] Game: Player 1 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[23:43:18] Player 2: Said word: baseline
+[23:43:19] Player 5: Said word: training
+[23:43:20] Player 0: Said word: drive
+[23:43:22] Player 4: Said word: serve
+[23:43:22] Round 4 has started! Round will end at 23:44:52
+[23:43:22] Players Alive: [0, 2, 4, 5]
+[23:44:49] Player 4: Another set of solid clues, honestly. “Baseline,” “training,” “drive,” “serve”—all of these connect right back to aspects of the sport’s gameplay, court layout, or practice. The only one I might question a little is “training” from Player 5—it’s relevant, but it feels just a touch broader compared to the ultra-specific terms like “baseline” and “drive.” I’m not throwing shade yet, just wondering if you chose it because all the obvious ones were gone, or was there a certain angle you had in mind? 
+
+Also, Player 0, you doubled up with “drive” again after I already mentioned it last round. Was that intentional, or just the clearest move left? I’m still not seeing any major red flags, but I want to get everyone’s rationale as the pool of unique terms shrinks.
+[23:45:07] Player 5: Okay, so at this stage the clues are shifting back toward some of the basics—“baseline,” “drive,” “serve”—while mine’s a bit broader with “training.” I get that “training” isn’t as technical as the others, but my thinking was that, after so many specific shot names, we might be running out of direct moves to mention. “Training” is still super relevant since you need a lot of it to master all these techniques.
+
+I want to ask Player 2 about “baseline.” Did you pick it because we’d already mentioned a lot of moves, or were you thinking it pointed to a specific aspect that hadn’t been covered yet? Also, Player 4, we’ve had “serve” before—were you going for a callback or did you feel like it fit best with where we are now?
+
+For everyone: do you think at this point we have people repeating general terms to play it extra safe, or do all the clues still feel locked in?
+[23:45:11] Player 0: Alright, at this stage the clues are still pretty consistent with our word. "Baseline" from Player 2 and "serve" from Player 4 are both locked into the core mechanics of the game. "Training" from Player 5 is a bit more general, but considering how the discussion’s gone, I can see why you’d try to avoid repeating shot or court terms.
+
+I chose "drive" because, honestly, at this point we’ve mentioned most of the other key techniques, and "drive" is another signature move in this game. I’m curious about "training" though, Player 5. Were you trying to be careful about not repeating, or did another word come to mind first? Do the rest of you think "training" is a stretch, or just a smart way to avoid overlap?
+
+Also, is anyone else second-guessing now that we’re getting down to the wire? It feels like we’re all on theme, but I’d love to hear what everyone thinks now that most of the obvious options are gone.
+[23:45:30] Player 2: With only four of us left, I feel like we’re now at the point where any slip could give the impostor away, so every clue really counts. I picked "baseline" because it’s a central term in the sport and fits with how technical the last couple rounds have been. 
+
+Looking at everyone else: "drive" from Player 0 is a repeat from earlier but still totally on point—maybe you circled back because options were running low? "Serve" from Player 4 is kind of a reset back to round one vocab, but still relevant to the game. The only one that stands out is "training" from Player 5; it makes sense as part of the overall experience, but it’s not as tightly linked to gameplay or specific techniques as the rest of these.
+
+Player 5, what made you go with "training" at this stage, when most of us have stuck to moves or court terms? Did you feel like things were getting too repetitive, or was there something specific you wanted to convey? For everyone else, does anyone feel like "training" is a little out of step with the precision we’ve had so far?
+[GAME] Round 4 completed
+
+[GAME] Starting Voting Round 4
+[23:46:06] Player 0: Voted for Player 5
+[23:46:41] Player 2: Voted for Player 5
+[23:46:42] Player 4: Voted for Player 5
+[23:46:44] Player 5: Voted for Player 2
+[GAME] Voting results: {5: 3, 2: 1}
+[GAME] Player 5 has been eliminated by vote!
+[23:46:44] Game: Player 5 has been eliminated!

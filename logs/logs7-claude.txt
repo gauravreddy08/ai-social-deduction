@@ -1,0 +1,57 @@
+[HIDDEN INFO] Imposters: {3}
+
+[HIDDEN INFO] The Civilian's word is: piano
+
+[GAME] Every Player will say their clue word randomly...
+[23:10:41] Player 5: Said word: keys
+[23:10:43] Player 4: Said word: music
+[23:10:45] Player 2: Said word: melody
+[23:10:46] Player 0: Said word: strings
+[23:10:48] Player 6: Said word: ivory
+[23:10:50] Player 1: Said word: ebony
+[23:10:52] Player 3: Said word: harmony
+[23:10:52] Round 1 has started! Round will end at 23:12:22
+[23:10:52] Players Alive: [0, 1, 2, 3, 4, 5, 6]
+[23:11:25] Player 5: Looking at these clues, I'm getting a strong musical instrument vibe. Keys, music, melody, strings, ivory, ebony - they all point to piano. But harmony feels a bit off to me. Player 3, can you explain how harmony connects to the physical aspects the rest of us described?
+[23:11:26] Player 4: Player 6's "ivory" and Player 1's "ebony" are spot on - those are the classic materials. Player 5's "keys" is perfect too. But I'm getting suspicious of Player 3's "harmony" - that's more about music theory than the actual object we're thinking of. Anyone else notice how vague that was?
+[23:11:38] Player 2: Looking at these clues, I'm getting a strong piano vibe from most of us. Keys, music, melody, strings, ivory, ebony - they all connect to piano perfectly. But Player 3's "harmony" feels a bit off to me. Harmony is more about music theory in general, not specifically about our instrument. Player 3, can you explain how your word connects to what the rest of us are describing?
+[23:11:47] Player 3: Wait, I'm noticing something interesting here. Player 5 said "keys" and Player 4 said "music" - those seem to connect. But then Player 2 went with "melody" which fits that pattern too. Player 0's "strings" and Player 6's "ivory" also make sense in that context. Player 1 said "ebony" which could work with piano keys. But I'm wondering if someone's trying too hard to fit in with obvious connections. What does everyone think about the flow of these clues?
+[23:11:50] Player 6: Looking at everyone's clues, I'm getting a strong musical instrument vibe here. Player 5's "keys" and my "ivory" seem to connect well with Player 4's "music" and Player 2's "melody." Player 0's "strings" is interesting though - that could fit multiple instruments. 
+
+Player 1, your "ebony" is clever - that definitely ties to the black and white theme I was going for. But Player 3, "harmony" feels a bit too general. Anyone can talk about harmony in music without knowing the specific word we're thinking of.
+[23:11:59] Player 4: Player 3's trying to deflect with music theory when we're clearly talking about a physical instrument. Look at the pattern - keys, ivory, ebony, strings - we're all describing the same thing's components. Harmony doesn't fit that at all. I think we found our first impostor.
+[23:12:00] Player 1: Looking at these clues, I'm getting a strong musical instrument vibe - keys, music, melody, strings, ivory, ebony, harmony. Player 5's "keys" and Player 6's "ivory" seem to point toward piano specifically, which matches my word perfectly. Player 0's "strings" is interesting - could be referring to piano strings inside the instrument. But I'm suspicious of Player 3's "harmony" - it feels too broad and musical without being specific to our actual word. Everyone else seems locked into the piano theme, but harmony could apply to any musical concept. Player 3, can you explain why you chose that particular word?
+[23:12:02] Player 0: Looking at everyone's words, I'm noticing some interesting patterns. Player 5 said "keys" and Player 6 said "ivory" - both directly relate to our word. Player 4's "music" and Player 2's "melody" also make sense. My "strings" fits perfectly too.
+
+But Player 1's "ebony" and Player 3's "harmony" feel a bit off to me. Ebony is technically related but it's more obscure - most people would think of the more obvious connections first. And harmony is more about music theory than the physical object itself.
+
+Player 1, can you explain why you chose ebony specifically? It seems like you're trying too hard to sound knowledgeable.
+[23:12:06] Player 5: I agree with Player 4 - harmony is way too abstract compared to our physical clues. Player 3, you're describing what comes FROM the object, not the object itself. That's exactly what someone without the actual word would do - stay vague and hope to blend in. The rest of us gave concrete, tangible parts or materials.
+[23:12:25] Player 2: Wait, I think I jumped too quickly there. Let me look at this more carefully. Player 3's harmony actually makes sense - when you play piano, you're creating harmony between different notes. But what's really bothering me is Player 0's "strings" - that feels more like guitar or violin territory. Player 0, how does strings specifically relate to what we're all thinking of?
+[23:12:48] Player 3: Hold on, you're all jumping on me for "harmony" but look at this more carefully. Player 0 said "strings" - but pianos have strings inside, most people don't even think about that. That's actually a really specific detail. And Player 5's "keys" is almost too obvious, like they're trying to make it easy for everyone to follow along. I think we need to look at who's giving clues that are TOO perfect versus those that show real knowledge of what we're talking about.
+[23:12:55] Player 6: I'm getting suspicious of Player 3's deflection there. Instead of explaining how "harmony" connects to our specific word, they're trying to turn attention to everyone else's clues and talking about "flow" and "obvious connections." That's classic impostor behavior - when pressed, they pivot to analyzing others instead of defending their own vague clue.
+
+The rest of us have clear, specific connections - keys, ivory, ebony, strings, music, melody all point to the same thing. But harmony is something you'd say if you heard "music" and tried to sound musical without knowing the actual word.
+[23:12:55] Player 4: I'm sticking with my read on Player 3. Everyone else is describing physical components - keys, ivory, ebony, strings - but Player 3 went straight to music theory with "harmony." That's exactly what an impostor would do when they don't know the actual word. They're trying to sound musical without committing to specifics. Player 0, your suspicion of Player 1 is interesting, but ebony is actually perfect for piano keys - it shows real knowledge of the word.
+[23:12:58] Player 5: Player 0, hold on - you're throwing suspicion at Player 1 for "ebony" but that's actually brilliant! Piano keys are literally made of ebony and ivory - Player 1 and Player 6 gave us the perfect pair. You're trying to muddy the waters by attacking solid clues. Your "strings" could apply to guitar, violin, harp - way more vague than ebony which specifically points to piano keys. I think you're the real impostor here!
+[23:12:59] Player 0: Hold on, I need to rethink this. Player 1's "ebony" is actually brilliant - piano keys are literally made of ebony and ivory. That's not obscure at all, that's classic piano terminology. I was wrong to suspect that.
+
+Looking more carefully, Player 3's "harmony" is the real problem here. Everyone else gave physical components or direct musical connections, but harmony is just general music theory. Player 3, you're deflecting instead of explaining your word choice. That's classic impostor behavior.
+
+I'm convinced Player 3 is our impostor.
+[23:13:00] Player 1: Hold on Player 0 - ebony is one of the most direct connections possible! Piano keys are literally made of ebony and ivory - that's a classic pairing everyone knows. If anything, your "strings" is the more technical choice since most people don't think about the internal mechanics. 
+
+I'm still focused on Player 3 though. While everyone else gave concrete, physical descriptions, harmony is purely conceptual. That's exactly what someone without the real word would say - something safe and musical that could apply to anything.
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[23:13:02] Player 0: Voted for Player 3
+[23:13:05] Player 1: Voted for Player 3
+[23:13:06] Player 2: Voted for Player 3
+[23:13:09] Player 3: Voted for Player 0
+[23:13:10] Player 4: Voted for Player 3
+[23:13:12] Player 5: Voted for Player 3
+[23:13:14] Player 6: Voted for Player 3
+[GAME] Voting results: {3: 6, 0: 1}
+[GAME] Player 3 has been eliminated by vote!
+[23:13:14] Game: Player 3 has been eliminated!

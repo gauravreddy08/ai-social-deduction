@@ -1,0 +1,156 @@
+[HIDDEN INFO] Imposters: {6}
+
+[HIDDEN INFO] The Civilian's word is: Crown
+
+[GAME] Every Player will say their clue word randomly...
+[10:42:39] Player 5: Said word: royal
+[10:42:40] Player 6: Said word: castle
+[10:42:41] Player 3: Said word: jewels
+[10:42:42] Player 2: Said word: head
+[10:42:43] Player 1: Said word: gold
+[10:42:43] Player 0: Said word: queen
+[10:42:44] Player 4: Said word: symbol
+[10:42:44] Round 1 has started! Round will end at 10:44:14
+[10:42:44] Players Alive: [0, 1, 2, 3, 4, 5, 6]
+[10:43:25] Player 6: Interesting set of clues. I noticed Player 2 said "head," which feels a bit disconnected from the overall vibe we’re getting from words like "royal," "jewels," and "queen." I’d expect something a little more related to wealth or status instead. Player 4’s "symbol" is also broad, but maybe that fits in this context. What made you choose "head," Player 2?
+[10:43:32] Player 0: Looking at the clues, I actually feel like most of us are circling around the same idea, but Player 4’s clue, “symbol,” stands out a bit for me. Most of us went really specific with things like “jewels,” “gold,” and “queen,” but “symbol” feels more abstract and safe—like something you’d say if you didn’t know the exact word. Player 4, was there a reason you didn’t pick something more concrete?
+[10:43:36] Player 5: Looking back at the clues, Player 4’s word “symbol” feels a little detached to me. Most of us gave something you could physically see or wear, but “symbol” is almost like… someone trying not to get too specific, if that makes sense. I guess you could call a crown a symbol, but it feels safer than the rest of our clues. Am I reading too much into that? What do the rest of you think?
+[10:43:36] Player 4: I want to point something out—Player 2’s clue, “head,” stands out to me. The rest of us seem to be circling around royalty, wealth, or power, but “head” almost feels like it’s either incredibly on the nose or just a wild shot. If you have the same word, what led you to that clue? Also, Player 6 with “castle” feels a little disconnected, but maybe I’m missing the link—did you have a specific association in mind?
+[10:43:41] Player 2: Looking at the clues, I'm a bit curious about Player 4’s word, “symbol.” It seems pointed but isn’t as specific as the rest. Most of us mentioned physical objects or directly related things like “jewels,” “head,” or “queen.” “Symbol” could fit, but it feels a little safe, like it could work for a lot of things. Player 6’s “castle” also feels a little on the edge—can you explain how you connected that to the word? I just want to understand everyone’s thought process.
+[10:43:52] Player 3: Looking at everyone’s clues, nothing is jumping out as super out of place, but I am a little curious about Player 4’s word, “symbol.” It fits, but it could be someone trying to play it extra safe because most of the rest of us picked words that are more directly linked to royalty or something valuable. Can you walk us through your thinking, Player 4? 
+
+Also, Player 6, “castle” feels slightly off topic compared to the rest of our clues that focus on the object itself. Not saying it’s impossible, but how did you connect “castle” to the main word?
+[10:43:54] Player 1: There’s a lot of overlap around royalty and wealth, which makes sense. What stands out to me is Player 2’s clue—“head.” It technically fits, but it’s much more literal compared to the rest. Everyone else gave words like “royal,” “jewels,” “gold,” “queen”—all closely tied together. I get that a crown goes on the head, but it feels like a clue someone might grab if they’re trying to improvise. I’m curious what your thought process was there, Player 2? 
+
+Also, Player 4’s “symbol” is a little general, but not as off as “head.” Anyone else feel the same way, or am I missing something?
+[10:44:19] Player 6: Now that everyone’s explained their clues, I’m still side-eyeing "head" a little. Unless the word really is super specific to something that goes on your head, I don’t see how it connects to the other clues, which lean heavily into royalty and treasure. I know "symbol" is abstract, but it could fit. So Player 2, can you give us more detail on your thought process? Or am I missing an angle here?
+[10:44:26] Player 0: I actually agree with Player 6 that Player 2’s clue is a little weird, but at least “head” directly connects to something worn, while “symbol” from Player 4 could fit so many things—flags, countries, even sports teams. Most of us went with something related to luxury, royalty, or physical objects. Player 4, can you explain what specifically about our word made you think of “symbol”? Because to me, that feels like it could apply almost anywhere.
+[10:45:04] Player 5: I actually kind of get why Player 2 might have gone with “head”—if you’re thinking about where our word goes, it makes some sense. But it is risky since it’s a little less obvious compared to the rest of the clues. 
+
+About Player 4, I agree with what others have said—“symbol” is valid, but it’s pretty safe and doesn’t really draw on the physical qualities everyone else described. If I had to pick someone who seemed a little out of sync, I’d lean toward Player 4 for now. 
+
+That said, I’d like to hear more from Player 6, too. “Castle” is technically connected, but it almost feels like a step removed from the main focus of the rest of our clues. What was your reasoning there?
+[10:45:08] Player 1: I’m with a few of you—while “symbol” could technically describe what we’re getting at, I think the more suspicious clue is “head” for now just because it’s so literal and, honestly, could be tossed out if you had no idea what the real word was. I know it technically fits, but in a game like this, an impostor might try to keep it vague and safe. I do want to hear Player 2 defend their choice, though—maybe there’s something I’m not seeing? And Player 4, can you also explain your reasoning a bit more? I’m keeping an open mind but those two are definitely on my radar right now.
+[10:45:16] Player 2: Yeah, let me explain my clue. I went with "head" because the word we have is something that goes specifically on your head—like, it literally sits on top of it. I thought if I went with something like "jewels" or "gold" it might be a bit too close to some other clues, or even too obvious, and I didn’t want to risk outing the word directly. That’s why “head” felt specific enough without giving everything away. 
+
+I actually think "symbol" is decent but super general, and "castle" is still on my radar too—it is related to royalty but not directly to what I think the word is. So, Player 6, I’d really like to hear your reasoning for that choice. Also, does anyone else think "symbol" could be a cover for not having the actual word?
+[10:45:25] Player 4: Alright, fair questions for me too. I went with “symbol” because a crown isn’t just a physical object—it represents authority and leadership, not only in terms of something you wear or see, but what it means. I considered being more specific, but after seeing other clues like “queen” and “royal,” I thought it was better to highlight what the object stands for rather than just how it looks. 
+
+If I’d gone with something like “gold” or “jewels,” it might have made the word too obvious or put a target on my back. That’s why I tried to keep it a bit broader while still being relevant. I get how that could seem vague though. If you were in my position, what would you have said instead without giving the word away completely? 
+
+Also, I’m still not sure about “castle”—I don’t immediately connect that with the object I’m thinking of. Player 6, can you elaborate on your thought process?
+[10:45:33] Player 3: After going through all the clues again, I keep coming back to how most of us went for words that are very visually tied to the word we have—like “jewels,” “gold,” or “queen.” Player 4, “symbol” makes sense, but it’s almost too broad when you think about what everyone else picked. But honestly, I think Player 2 stands out even more. “Head” is technically accurate, but it’s strangely direct compared to the rest of our answers, and not something you’d normally associate first when brainstorming around our word. 
+
+Player 6, “castle” does feel a bit out of the loop, but I could see the connection if you’re thinking about where you’d find royalty. Before I point fingers, I want to hear from Player 2 and Player 4 specifically—what exactly was your line of thinking with those words? Just want to see if there’s something I missed.
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[10:45:34] Player 0: Voted for Player 4
+[10:45:36] Player 1: Voted for Player 2
+[10:45:37] Player 2: Voted for Player 4
+[10:45:38] Player 3: Voted for Player 4
+[10:45:41] Player 4: Voted for Player 2
+[10:45:42] Player 5: Voted for Player 4
+[10:45:48] Player 6: Voted for Player 4
+[GAME] Voting results: {4: 5, 2: 2}
+[GAME] Player 4 has been eliminated by vote!
+[10:45:48] Game: Player 4 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[10:45:49] Player 5: Said word: king
+[10:45:50] Player 3: Said word: tiara
+[10:45:51] Player 1: Said word: jewel
+[10:45:52] Player 0: Said word: monarch
+[10:45:54] Player 2: Said word: throne
+[10:45:55] Player 6: Said word: regal
+[10:45:55] Round 2 has started! Round will end at 10:47:25
+[10:45:55] Players Alive: [0, 1, 2, 3, 5, 6]
+[10:47:26] Player 5: Now I’m even more interested in this round after seeing the new clues. I gave “king” because it ties directly to crown—that’s usually the first image people get. Looking at the rest, I’m a little confused by Player 2’s word, “throne.” I get they’re both tied to royalty, but a throne seems like a pretty big leap away from the physical item we’re focusing on. 
+
+Player 1’s “jewel” and Player 3’s “tiara” both fit perfectly—they describe what a crown has or resembles. Player 0’s “monarch” and Player 6’s “regal” also clearly fit. But “throne” seems almost like a fallback if you’re just thinking ‘royal things’ rather than the specific object. 
+
+If you have our word, Player 2, why pick “throne” over something more closely tied? Am I missing a connection you had in mind?
+[10:47:36] Player 6: Okay, so after another round, most clues are still pointing in the same general direction—lots of references to royalty, power, and luxury. Player 2, your clue “throne” actually makes more sense to me than your round one answer, honestly, so you’re less on my radar this time. 
+
+But Player 3 saying “tiara” and Player 1 going with “jewel” both feel a little close to each other, almost like you coordinated or wanted to double down on something shiny. Player 5 with “king” is on the nose but consistent with “royal,” and Player 0 choosing “monarch” also tracks with their “queen” clue before. 
+
+The only one I’m not totally sure about is Player 3—“tiara” is a pretty specific type of headwear and not exactly the same as the main object we're circling around, right? Can you walk me through how you made that leap from the clues we’ve given so far?
+[10:47:38] Player 3: Alright, looking at this next set of clues, most of us are doubling down on the “royalty” and “jewels” theme—which definitely lines up with the word I have in mind. Player 2, your choice “throne” feels a step sideways from the rest, since it’s not actually something you wear, while everyone else, myself included, went with words directly related to adornment or status—like “tiara,” “regal,” and “jewel.” 
+
+Player 0’s “monarch” is pretty on point, but again, not a physical object. Player 5, “king” is logical, although doesn’t directly describe the item—more who has it. So I’m curious: were you both intentionally avoiding describing the object itself, or just trying not to be too obvious? 
+
+But honestly, “throne” feels most out of sync in this round. Player 2, can you explain why you moved in that direction? It feels like a big leap away from what the rest of us are honing in on.
+[10:47:43] Player 0: Looking at this round’s clues, I feel like everyone’s keeping pretty close to the theme, but a couple stand out as slightly off-track. Player 2, your clue “throne” seems a little tangential—while it’s definitely related to royalty, it isn’t really something you wear or even directly connected to what we’ve all been hinting at with things like “tiara,” “jewel,” and “regal.” I get where you’re coming from, but I’m wondering if you’re steering away from the obvious connection just a bit.
+
+Also, Player 5’s “king” fits with the royal theme, but it’s a person rather than an object, which could go either way. The rest of us went for items, titles, or descriptions closely tied to what I think our word is.
+
+For everyone else: if you had to pick one clue that felt most out of sync with the group, whose would it be and why? I’m keeping my eye on “throne” for now but open to hearing what others think.
+[10:47:47] Player 2: Looking at these new clues, Player 3’s “tiara” and Player 2’s “throne” stand out a little for different reasons. I’ll explain mine first—since I already used the main physical connection last round, I wanted to reference something that goes with royalty and the broader scene without repeating “head” or “queen,” but maybe “throne” stretches it a bit since it's not worn but is closely tied to the person who wears our word.
+
+But “tiara” is interesting too—while it’s similar to a crown, it’s a bit different and usually associated with a different context or person. Is there a reason you picked that word, Player 3? And Player 1, you went from “gold” to “jewel”—is there a reason you’re sticking strictly to the material side? I want to make sure we’re not tunnel-visioning on just one type of connection.
+
+Also, I’m curious what others think now—does anyone think our impostor would go for more vague associations like “regal” (Player 6) or “monarch” (Player 0), or for something more concrete?
+[10:47:53] Player 1: Okay, so with the new round of clues, I’m noticing that most of us are still sticking really closely to the theme from before. "Tiara," "monarch," "king," "regal," "jewel"—they’re all clearly in the same category as our original set. The only one that stands out a bit to me is "throne" from Player 2. 
+
+Everything else is either something directly worn or a title, and "throne" is a place rather than an object or a person. I guess it connects to royalty, but the link feels just a little less direct compared to everyone else’s clue. 
+
+Player 2, can you walk us through your thinking with "throne"? Given the way the rest of us stuck to wearable items or royal titles, I’m curious why you pivoted to a type of furniture—especially since last round you went for "head," which was so literal and spot-on. Did you want to change your approach, or is there something particular you’re seeing that I’m missing? 
+
+Anyone else feel like "throne" is a bit of an odd one out here?
+[GAME] Round 2 completed
+
+[GAME] Starting Voting Round 2
+[10:47:54] Player 0: Voted for Player 2
+[10:47:56] Player 1: Voted for Player 2
+[10:47:57] Player 2: Voted for Player 3
+[10:47:58] Player 3: Voted for Player 2
+[10:47:59] Player 5: Voted for Player 2
+[10:48:01] Player 6: Voted for Player 2
+[GAME] Voting results: {2: 5, 3: 1}
+[GAME] Player 2 has been eliminated by vote!
+[10:48:01] Game: Player 2 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[10:48:02] Player 3: Said word: coronation
+[10:48:03] Player 6: Said word: scepter
+[10:48:05] Player 1: Said word: tiara
+[10:48:07] Player 5: Said word: bejewelled
+[10:48:09] Player 0: Said word: tiara
+[10:48:09] Round 3 has started! Round will end at 10:49:39
+[10:48:09] Players Alive: [0, 1, 3, 5, 6]
+[11:01:49] Player 3: The clues are locking in super closely now—three of us went for “tiara,” which makes me think we’re pretty in sync about what the word is. “Bejewelled” from Player 5 also lines up since it describes the main feature of our word. The only outlier this time is “scepter” from Player 6. You’ve given solid royal-related clues in past rounds, but a scepter is a totally different object, not something you’d wear, and not something most people would associate first with what we’ve been circling. Can you explain what led you to that clue, Player 6? 
+
+For everyone else: at this point, I feel way more confident about us narrowing in on the right theme. Are there any other clues you found questionable, or is anyone else still thinking someone hasn’t given clues that are quite specific enough?
+[11:02:13] Player 6: Interesting round. Looks like “tiara” is suddenly showing up twice—Player 1 and Player 0 both settled on that, which almost feels a bit coordinated or maybe even safe since it’s similar enough to a crown without being the word itself. Player 3 saying “coronation” fits with the theme events, although it’s not an object—kind of like my “scepter” clue, which is another iconic royal symbol that goes with a crown. Player 5’s “bejewelled” is pretty on the nose and consistent with their previous directions.
+
+I’m starting to wonder about the double “tiara”—it’s close, but are you both genuinely leaning in because it fits, or is one of you trying to stay under the radar by echoing a safe word? And Player 3, was “coronation” to highlight the context, or are you dodging naming actual objects?
+
+If you had to call out one clue this round that’s either conveniently safe or overly broad, which would it be? Right now, “tiara” twice is giving me pause, but I’m not quite ready to accuse—just want to hear everyone’s reasoning.
+[11:02:16] Player 1: Looking at these clues, it feels like nearly everyone is honing in on the same group of ideas—almost everything here is about royal ceremonies, ornaments, or closely related symbols. "Tiara" doubling up is interesting—that’s me and Player 0 going for the closest headpiece relation. "Scepter" from Player 6 is definitely royal, but more of a counterpart to our main word than a description of it, which feels just a bit off from where everyone else went. "Coronation" is a direct connection to how our word is used, so that checks out.
+
+The one that stands out most is "bejewelled" from Player 5—it matches the material aspect for sure, but it’s more of a description than a related object or event. I could see an impostor choosing something like that to stay on theme without being too specific.
+
+Player 6, what made you pick "scepter" instead of sticking to something that’s directly worn? And Player 5, what thought process led you to choose "bejewelled" for this round? I feel like the distinctions between these clues could be really important here.
+[11:02:23] Player 5: This round is getting interesting—the clues are getting more refined. I went with “bejewelled” because, for me, that’s basically the defining feature of a crown: covered in gems, super decorative, usually the flashiest thing in the room. Now, seeing two people—Player 1 and Player 0—both say “tiara,” I’m not sure if that’s coincidence or if someone’s playing it safe by repeating the same clue. It feels a little odd that we’re narrowing in rather than branching out.
+
+Player 3’s “coronation” makes sense as an event connected to crowns, and “scepter” from Player 6 is clearly another royal object, but not exactly the same category as “crown”—it’s usually held, not worn. So Player 6, how did you decide on “scepter” this round? Was it to highlight another object associated with royalty, or was there some other thought process?
+
+For everyone else—what do you think about the double “tiara” clue? Do you see that as a sign of teamwork, or are we just running out of new ideas? I want to hear people’s thoughts because I feel like our impostor might be trying to blend in by echoing something that feels “safe.”
+[11:02:29] Player 0: Now that the group’s smaller, I’m noticing a really tight clustering of clues—especially this round with both Player 1 and I going with “tiara,” and Player 3 previously giving “tiara” and now “coronation.” That makes sense contextually; all these words are related, though it is interesting that “tiara” is getting repeated instead of someone branching out to a different aspect.
+
+Player 6, “scepter” is absolutely in the royal toolkit, but I’m not sure it’s as directly tied to our word as the other clues—crowns and scepters go together, but one is worn and one is held, so to me that’s one step removed.
+
+Player 5, “bejewelled” is a solid descriptive word, since it’s basically what crowns look like, but it’s a little more about the decoration and less about the object’s core identity.
+
+So, here’s what I’m wondering: Player 6, you’ve been consistent with keeping your clues in the broader “royalty” domain, but they tend to be just slightly less direct than I’d expect from someone 100% sure of the word. What was your reasoning for “scepter” this round instead of, say, another word related to what you put on rather than hold? Curious to hear your thought process there.
+[GAME] Round 3 completed
+
+[GAME] Starting Voting Round 3
+[11:02:30] Player 0: Voted for Player 6
+[11:02:32] Player 1: Voted for Player 6
+[11:02:33] Player 3: Voted for Player 6
+[11:02:34] Player 5: Voted for Player 6
+[11:02:35] Player 6: Voted for Player 1
+[GAME] Voting results: {6: 4, 1: 1}
+[GAME] Player 6 has been eliminated by vote!
+[11:02:35] Game: Player 6 has been eliminated!

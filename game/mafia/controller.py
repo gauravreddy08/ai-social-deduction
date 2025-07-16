@@ -8,8 +8,8 @@ from collections import defaultdict
 from logger_config import get_logger
 
 config = {
-    "generator_model_name": "gpt-4o-mini",
-    "scheduler_model_name": "gpt-4o-mini",
+    "generator_model_name": "gpt-4.1",
+    "scheduler_model_name": "gpt-4.1-mini",
     "scheduler_instructions": SCHEDULER_INSTRUCTIONS,
     "generator_instructions": GENERATOR_INSTRUCTIONS,
     "vote_instructions": VOTING_PROMPT,

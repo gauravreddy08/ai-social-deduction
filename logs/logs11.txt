@@ -1,0 +1,144 @@
+[HIDDEN INFO] Imposters: {1}
+
+[HIDDEN INFO] The Civilian's word is: Dictionary
+
+[GAME] Every Player will say their clue word randomly...
+[00:37:55] Player 2: Said word: thesaurus
+[00:37:56] Player 0: Said word: definition
+[00:37:57] Player 3: Said word: alphabet
+[00:37:59] Player 4: Said word: reference
+[00:38:00] Player 1: Said word: index
+[00:38:01] Player 5: Said word: book
+[00:38:02] Player 6: Said word: pages
+[00:38:02] Round 1 has started! Round will end at 00:39:32
+[00:38:02] Players Alive: [0, 1, 2, 3, 4, 5, 6]
+[00:38:40] Player 3: Looking at everyone’s clues, nothing is jumping out as super off yet, but Player 5 saying "book" feels a lot broader compared to the rest of ours. Like, we all said words that tie back to the function or structure, but "book" could fit way more things. Anyone else getting that vibe, or am I overthinking?
+[00:38:51] Player 6: I’m actually feeling pretty good about most of these clues. Words like definition, thesaurus, alphabet, and reference all fit with what I’d expect. But Player 5 just said “book,” which seems super broad compared to everyone else. I get that it technically works, but it’s way less specific. Player 5, can you explain why you went with something that general? Was there a reason you didn’t go with something a little more telling?
+[00:38:53] Player 1: Alright, now that we've all thrown out our clues, I want to point out that Player 5 went with "book," which feels pretty broad compared to the rest of us using specific terms. I also noticed that Player 3 said "alphabet"—definitely related, but maybe a little bit off from the other clues, which seem more about tools or features rather than components. Does anyone else get that vibe, or am I reading too much into it?
+[00:38:56] Player 0: Looking at everyone’s clues, I feel like Player 5’s word “book” is a bit too broad compared to the rest of ours, which were more specific. Most of us went with something directly tied to the context of our word, but “book” could fit almost any topic. Player 5, can you share your reasoning behind that choice? Also curious about Player 3 – “alphabet” is related, but feels like a step away. Did you have a particular connection in mind?
+[00:38:56] Player 5: Looking at everyone's clues, I'm actually feeling pretty good about most of them—they all kind of fit into the same category. The only one that's standing out a bit to me is alphabet from Player 3. I get that it's related, but it feels just a bit disconnected compared to the rest, which are more clearly things you’d expect to find or use with this word. Curious to hear what others think about that—am I reading into it too much?
+[00:38:59] Player 4: Looking at the clues, none of them seem wildly out of place, but to me, "book" from Player 5 stands out for being very general. Most of us picked a specific aspect—like "alphabet" or "reference"—but "book" could relate to so many things. I feel like, if you knew our word, you’d go for something a bit more pointed. Player 6's "pages" is pretty generic too, but at least it connects to the format. What do others think—is anyone else getting safe-vibe energy from those words?
+[00:38:59] Player 2: Alright, looking at the clues, most of us seem pretty in sync—reference, index, definition, pages, alphabet all fit the same general idea. The one that stands out to me is Player 5 with 'book.' It feels like the most generic term here, while everyone else narrowed in on something more specific. I get that dictionaries are books, but that clue doesn’t really risk anything. Player 5, can you explain your thought process there? Was there a reason you didn’t go for a more specific clue?
+[00:39:34] Player 6: And Player 1, I’m a little curious about your clue too—"index" makes sense on its own, but it’s something you’d find in a bunch of books, not just the kind we’re all hinting at here. Can you walk me through your thinking behind that clue? I just want to make sure we’re narrowing it down to people who really know the word.
+[00:39:40] Player 3: I agree with what Player 1 and Player 2 are probably about to say, since the rest of the clues like "thesaurus," "reference," and even "index" are more specific to a certain kind of book. "Book" just feels like a catch-all anyone could throw out if they didn't know the exact word. Player 6, your clue "pages" also feels basic, but it's at least a physical component. Player 5, can you walk me through your thinking? Why didn’t you go with anything a bit more focused?
+[00:40:05] Player 0: I actually agree with the general feeling that “book” is pretty non-committal. I get that it technically applies, but out of everything, it feels the safest to throw out when you aren’t sure what everyone else is thinking. On the other hand, I’m not as suspicious of “alphabet,” since it’s a core part of what we’re talking about, even if it’s not a direct feature like some of the other clues. If anything, I’d like to hear more from Player 5 about their thought process—did you feel like other words would’ve been too revealing, or were you just playing it safe?
+[00:40:05] Player 1: Hearing everyone focus on how broad "book" was, I definitely agree it doesn’t give us much to work with. But I'm also interested in why "alphabet" is coming up as potentially off. At first, it felt like a stretch, but thinking about it, maybe Player 3 was just being a little cautious not to give too much away? Still, I want to hear more from Player 5 about their reasoning—did you pick "book" just because it's the category, or was there a more specific connection you had in mind? Also, Player 3, could you talk us through your thought process with "alphabet"?
+[00:40:07] Player 2: Yeah, I'm still leaning toward Player 5 as the most suspicious here. Everyone else picked a clue that really narrows things down, but "book" is safe to the point that it almost feels like an attempt not to give away anything you don't know. I know it technically fits, but if you're a civilian, why not be just a little more specific to help the group? I'm all for everyone weighing in, but at this point, Player 5 is my top pick. Does anyone feel strongly about anyone else, or are we all circling the same conclusion?
+[00:40:15] Player 4: I agree with everyone that "book" from Player 5 sticks out for being way too safe. The rest of us zoned in on features or tools—like "definition" or "index"—while "book" just feels like it's covering the basics without revealing any real knowledge of the word. If I were the impostor and had no idea, I'd probably go broad like that to avoid tripping up. I'm not saying it's 100%, but Player 5 is definitely my top suspect for now. As for "alphabet" from Player 3, it's not as laser-focused, but I can see the connection. What made you choose that, Player 3? Was there another angle you were considering?
+[00:40:40] Player 5: Okay, I get why “book” is coming across as broad, but let me walk you through my thinking. I was trying not to give away our word too directly—especially since a lot of obvious connections seemed risky this early. But with all your clues being super specific, I totally see how mine stands out.
+
+If you look at our word’s function, literally the format is a book—that’s the first thing I thought of. If I got too detailed, I was worried I’d make it way too easy for the impostors. That said, in hindsight, maybe I should've leaned a bit more into features or structure, like “pages” or “reference.” What would you have said in my place to avoid tipping off the impostor but still fit in better?
+
+Also, I’m still hung up on “alphabet.” It fits, but it’s more about content than the tool itself, you know? Player 3, what was your thinking there?
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[00:40:41] Player 0: Voted for Player 5
+[00:40:42] Player 1: Voted for Player 5
+[00:40:43] Player 2: Voted for Player 5
+[00:40:45] Player 3: Voted for Player 5
+[00:40:46] Player 4: Voted for Player 5
+[00:40:47] Player 5: Voted for Player 3
+[00:40:49] Player 6: Voted for Player 5
+[GAME] Voting results: {5: 6, 3: 1}
+[GAME] Player 5 has been eliminated by vote!
+[00:40:49] Game: Player 5 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[00:40:51] Player 2: Said word: vocabulary
+[00:40:51] Player 1: Said word: term
+[00:40:53] Player 6: Said word: pronunciation
+[00:40:54] Player 4: Said word: language
+[00:40:55] Player 0: Said word: translation
+[00:40:56] Player 3: Said word: spelling
+[00:40:56] Round 2 has started! Round will end at 00:42:26
+[00:40:56] Players Alive: [0, 1, 2, 3, 4, 6]
+[00:41:56] Player 0: I like where everyone’s heads are at with these round two clues—they all feel in the same vein, hinting at features you’d associate with our word. Honestly, “vocabulary,” “language,” “pronunciation,” and “spelling” all check out for me, and “term” is definitely something you’d look up. If I had to nitpick, maybe “language” from Player 4 is a bit broader, but it’s still relevant. Is there any particular clue that anyone else feels doesn’t quite fit? Or are we just playing it safe now that Player 5 is out?
+[00:42:01] Player 1: Reading through this round’s clues, I’m honestly not seeing any super obvious red flags—most of these fit the pattern we started in round one. “Pronunciation,” “spelling,” “translation,” “vocabulary,” “language”—these all make sense given what we’ve been discussing. The only one that feels a little less directly tied is “term.” Yeah, it kind of fits, but it’s less specific than the others, which get right at the features or uses. I want to hear—does anyone else think “translation” or “term” lean a bit broad compared to the rest, or am I just splitting hairs at this point?
+[00:42:14] Player 3: Alright, given this new round of clues, everything’s feeling pretty consistent with where we left off. Everyone’s word ties back to ways you use or interact with the main word—“pronunciation,” “vocabulary,” “translation,” even “term”—they all fit together.
+
+Player 4’s word “language” jumps out as the broadest, just because it’s a whole category and could point in a lot of different directions, but it does make sense contextually. I’d just love to hear a bit more detail: what specifically led you to “language,” and did you have another word in mind before you landed on that?
+
+Anyone else getting weird vibes from any of these, or do we mostly feel like everyone’s reasoning lines up so far?
+[00:42:19] Player 4: I’m actually pretty satisfied with this round’s clues—“pronunciation,” “translation,” “spelling,” “vocabulary,” “term”—those all make a ton of sense for the word we’re working with. If anything, I think we’re all tiptoeing around the core of it, but that’s expected at this stage.
+
+The only clue I want to ask more about is “translation” from Player 0. Not because it’s off—in fact, it works—but it’s slightly more specific to a function, whereas most of us leaned into structure or content. Can you walk me through your thinking there? Were you aiming to highlight a particular aspect, or was it just the first thing that came to mind? Otherwise, nothing’s really jumping out as suspicious to me right now. Anyone else catching any subtle weirdness?
+[00:42:29] Player 2: Alright, looking at this round’s clues, I’m honestly not seeing anything massively out of place. Vocabulary, pronunciation, term, language, spelling, and translation—they’re all tightly connected, and all feel like natural things you’d look for or use in our word. If I had to nitpick, maybe “translation” from Player 0 is a little less on-the-nose, but it still makes sense—our word can help with that. I’d actually be more suspicious if someone tried to force a weirdly specific or unrelated clue, but so far, no huge red flags for me.
+
+That said, what do you all think about “pronunciation” and “translation”? They fit, but are they a little too adjacent rather than central? Or am I just splitting hairs trying to find something off? I’m curious if anyone else is seeing subtle differences in how focused these clues are.
+[00:42:34] Player 6: I’m liking these clues a lot more—everybody’s choices feel pretty on target. “Pronunciation,” “spelling,” “language,” and “vocabulary” all point in the same direction as our word, and I think “term” and “translation” also fit if you think about what you’d actually use the word for. Nobody really feels out of sync this time.
+
+If I had to pick, I might say “term” from Player 1 is the broadest, just because you could find “terms” in a bunch of places, but it still checks out for me within this context. I’m honestly struggling to see any clue here that feels evasive or like someone’s winging it.
+
+Anyone else picking up on anything odd, or are we actually all on the same page now? If not, maybe we should also be looking at players who aren’t contributing as much to discussion—since that can sometimes be a red flag.
+[00:43:00] Player 0: After seeing all the clues this round, I'm having a hard time picking out anything blatantly off. If anything, maybe "language" from Player 4 is a touch more general compared to the rest—since all the others highlight specific functions or elements you'd use or find. But honestly, there’s nothing here that screams impostor like last round. 
+
+Player 4, can you share your thought process for "language"? Were you thinking of the type included, or something else? Otherwise, I’m not really getting strong suspicious vibes from anyone so far. How’s everyone else feeling?
+[00:43:15] Player 1: I get where you’re coming from about “term” maybe not being laser focused, but to me it still falls inside the circle of stuff you’d definitely find. “Translation” is interesting—it feels a touch on the broad side, but I could see it being related, since what we’re talking about often connects words between languages. Looking back at all the clues, I feel like everyone is aiming for the same general type, but some are just being a little more cautious after what happened with Player 5 last round. Does anyone have any gut feeling about who’s holding back or playing it just a bit too safe this round?
+[00:43:40] Player 4: I totally get why “language” might seem broad—it’s one of the first things I associate with our word, though. A dictionary is all about recording and explaining language; it covers vocabulary, pronunciation, translation, and so on. That was my thought process: all those features exist to help you understand or use language better. I was debating between that and something super on-the-nose like “word” or “entry,” but worried those would be too obvious or overlap exactly with someone else.
+
+If anyone thinks “language” doesn’t fit, let me know what angle you’d have gone for—I’d honestly like to hear it. But unless someone slips up big in their explanation, I’m struggling to find a strong suspect this round.
+[00:43:41] Player 3: Yeah, I’m with you—none of the clues this round feel out of left field, which is why I’m just a little curious about how broad “language” is compared to the rest. “Vocabulary” and “pronunciation” directly tie to what you’d actually find, “spelling” and “translation” are things you use it for, and even “term” points to its contents. But “language” almost feels like it could be the subject or even the medium, depending on how you look at it.
+
+Player 4, is there a reason you went with that over, say, a more specific feature? Just trying to get a sense of your thought process, since you were pretty focused last round. If you had to explain how “language” fits, what would you say is the strongest connection?
+[GAME] Round 2 completed
+
+[GAME] Starting Voting Round 2
+[00:43:47] Player 0: Voted for Player 4
+[00:43:48] Player 1: Voted for Player 4
+[00:43:49] Player 2: Voted for Player 4
+[00:43:50] Player 3: Voted for Player 4
+[00:43:51] Player 4: Voted for Player 0
+[00:43:54] Player 6: Voted for Player 4
+[GAME] Voting results: {4: 5, 0: 1}
+[GAME] Player 4 has been eliminated by vote!
+[00:43:54] Game: Player 4 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[00:43:55] Player 3: Said word: entry
+[00:43:57] Player 1: Said word: guide
+[00:43:59] Player 0: Said word: pronounce
+[00:44:01] Player 6: Said word: lexicon
+[00:44:03] Player 2: Said word: definition
+[00:44:03] Round 3 has started! Round will end at 00:45:33
+[00:44:03] Players Alive: [0, 1, 2, 3, 6]
+[00:45:13] Player 1: Alright, these clues keep getting more dialed in. “Entry,” “lexicon,” “definition”—those all fit exactly what you’d expect if we’re thinking about the type of book we started with. “Pronounce” from Player 0 and “guide” from me feel like things you might do with or call it, too. If I’m being picky, “pronounce” is a tiny bit action-focused, but it leads back to what the book is for. No huge red flags, but I’d love to hear what everyone else thinks—do any of these words feel like a stretch, or is it just getting tougher to spot anything weird the longer we go?
+[00:45:18] Player 0: These round three clues are all still making a ton of sense for our word. “Entry,” “definition,” “pronounce,” “guide,” and “lexicon”—they all hit on core features or purposes. “Lexicon” from Player 6 is maybe a little more academic, but definitely on target, and “guide” from Player 1 is broader but still fits with how we use the main word. I guess if I had to question anything, “guide” could apply to other reference materials, but in this context, it fits. Is anyone else seeing any subtle red flags here, or are we basically all still moving in sync? I’m curious if anyone thinks there’s someone who’s flying under the radar right now.
+[00:45:27] Player 2: I really like the level of detail everyone brought this round—“entry,” “lexicon,” “pronounce,” “guide”—all of those are elements you’d directly expect for our word. I went with “definition” because, to me, that’s pretty much the central purpose—finding out what things mean. 
+
+Honestly, at this point, nobody’s word feels like they’re reaching or bluffing. Maybe “guide” from Player 1 is slightly the most open-ended, but even that makes total sense, since our word is basically a reference guide. 
+
+Is anyone seeing a clue here that feels off, or do we all just feel solid after that last vote? I’m open to hearing arguments, but I’m not really spotting any obvious gaps.
+[00:45:28] Player 6: These clues are still pretty tight—“entry,” “guide,” “pronounce,” and “definition” all point directly at what we’d expect for our word. Honestly, nothing here is ringing as out of place or too vague. 
+
+If I had to pick the broadest, maybe “guide” from Player 1 feels a tad more open-ended, since it’s not something you’d only link with our word, but it still checks out for me. Everyone else is really dialed in, and I’m not seeing the kind of hesitation or stretching you’d expect if someone was winging it.
+
+Is anyone else noticing a specific clue or behavior that feels off, or are we as locked in as it seems? If not, it might be time to start weighing past rounds to see if anyone’s pattern has changed.
+[00:45:33] Player 2: I have to say, this round’s clues are lining up really well with the word we all seem to be circling. “Entry,” “guide,” “pronounce,” “lexicon,” and “definition” are all words you’d absolutely associate with our main word. If anything, “pronounce” from Player 0 is the only one that’s a verb, while the rest are more about components or features, but I still get the connection—pronunciation is a huge part of what you use a dictionary for.
+
+Is anyone else reading into that difference, or does it feel natural? Also, “lexicon” is super on-theme, but it’s a bit more academic—Player 6, what made you go with that instead of something more everyday? Just trying to tease out small differences, since nobody’s standing out as obviously suspicious at this point. Thoughts?
+[00:45:34] Player 3: Alright, now that we’re down to five, the new clues are actually pretty tight. I like “lexicon” and “definition” a lot—they’re both super locked in to what we’re talking about. “Pronounce” and “guide” also make total sense; you use this for help with those. 
+
+If I had to pick at something, maybe “guide” from Player 1 is a little broader—like, you could use “guide” for a lot of things, but with the other clues this round, it still fits. No one’s really phoning it in or throwing out something totally off, so I don’t have a standout suspect yet.
+
+Is anyone else reading something subtle here, or are we just getting more cautious? If I had to push someone, Player 1—your “guide” is solid, but was there something more direct you almost went with?
+[00:46:36] Player 2: Honestly, nothing here feels off to me—every word is tightly linked to the main purpose or contents of our word. “Entry,” “pronounce,” “lexicon,” “guide”—they all land where I’d expect. If I had to nitpick, maybe “guide” is a little broader because it could apply to other reference tools, but in this context, it fits perfectly. I’m finding it tough to justify suspicion toward anyone based on these clues alone.
+
+If anyone feels someone’s skating by or throwing out safer options, now’s probably the time to say so. But from my view, everyone seems legit so far. Anyone else getting a different feeling?
+[00:46:55] Player 1: Yeah, at this point the clues are all feeling super on target. “Entry,” “lexicon,” and “definition” especially—they’re exactly what comes to mind for this kind of book. I know my clue “guide” is maybe a bit broader, but when I think of how people use this, it’s basically as a reference or guide for words and their meanings. I see what you mean about “pronounce” being a little more about what you do, but it still connects since pronunciation is usually a big part of what you look up.
+
+Honestly, the only thing that stands out is that nobody seems to be diverging or throwing out anything vague, which either means we’re all thinking along the same lines, or someone’s gotten really good at camouflaging. Do we feel like anyone’s consistently picking just slightly off-angle clues, or is it really just this hard to tell now?
+[00:46:56] Player 0: Honestly, after seeing the clues this round, I’m not spotting anything that jumps out as suspicious. “Entry,” “definition,” and “lexicon” are all directly tied to the core of what a dictionary is, and even “guide” works because it describes how we use it. I know “pronounce” from me was action-oriented, but it’s such a classic thing you’d look for with our word that I couldn’t resist. If I had to nitpick, I might say “guide” is a little broader compared to the others, but it still fits naturally within this set—nothing feels forced or off.
+
+At this point, are we thinking the impostor is just really good at blending in, or do we think someone’s been playing it extra safe with carefully chosen words each round? If so, who feels like they’ve been avoiding specifics, even by just a hair?
+[GAME] Round 3 completed
+
+[GAME] Starting Voting Round 3
+[00:46:58] Player 0: Voted for Player 1
+[00:46:59] Player 1: Voted for Player 0
+[00:47:00] Player 2: Voted for Player 1
+[00:47:01] Player 3: Voted for Player 1
+[00:47:03] Player 6: Voted for Player 1
+[GAME] Voting results: {1: 4, 0: 1}
+[GAME] Player 1 has been eliminated by vote!
+[00:47:03] Game: Player 1 has been eliminated!

@@ -1,0 +1,76 @@
+[HIDDEN INFO] Imposters: {2}
+
+[HIDDEN INFO] The Civilian's word is: Energy Drink
+
+[GAME] Every Player will say their clue word randomly...
+[22:25:27] Player 2: Said word: blue
+[22:25:29] Player 3: Said word: caffeine
+[22:25:30] Player 1: Said word: boost
+[22:25:31] Player 4: Said word: refreshing
+[22:25:32] Player 0: Said word: beverage
+[22:25:32] Round 1 has started! Round will end at 22:27:02
+[22:25:32] Players Alive: [0, 1, 2, 3, 4]
+[22:25:43] Player 2: Blue is an interesting choice, Player 1. How does it connect with what we're discussing?
+[22:25:45] Player 2: Blue and beverage seem pretty connected. Player 3, your clue felt a bit different. Can you elaborate?
+[22:25:48] Player 4: Player 3’s word feels a bit off compared to the rest. It doesn’t seem to connect as well. What do you think?
+[22:25:50] Player 4: Player 2's clue seems a bit off, don't you think? "Blue" doesn't quite fit with the rest. Maybe they're trying to find the word?
+[22:25:52] Player 3: Caffeine and boost make sense together for what I'm thinking. But blue seems really odd. Does anyone else feel Player 2 might be a bit off with that?
+[22:25:52] Player 1: Player 3's word fits well, but Player 2's "blue" feels a bit off. Usually, that doesn't immediately relate to what we're thinking about. What do you all think?
+[22:25:52] Player 0: Player 3’s clue about caffeine matches pretty well with what I'd expect. But Player 2's word "blue" seems a bit out there. Can you expand on that, Player 2?
+[22:25:57] Player 2: It seems like some of our choices lean towards certain themes. Player 0, what made you choose "beverage"?
+[22:25:59] Player 2: Isn't it odd how different Player 3's clue seems? Caffeine feels a bit off-topic here. What do you all think?
+[22:26:06] Player 4: I agree, caffeine doesn't quite fit with the overall theme of our clues. Player 3, could you explain how it ties into what we're thinking about?
+[22:26:09] Player 0: I agree, Player 2. "Blue" doesn’t connect with our theme as strongly. Could you explain your thought process a bit more?
+[22:26:10] Player 4: Feels like Player 2 might be throwing in something vague with "blue." That doesn't seem to match the trend we're seeing. Maybe they're fishing for our word?
+[22:26:10] Player 4: Player 3, the word you used is pretty specific. Can you give us more context on your choice? It feels a bit different from what others said.
+[22:26:15] Player 1: Player 3, I see how caffeine connects with our word. I'm not convinced about "blue" from Player 2 either. It's a bit vague. Maybe they're fishing for clues? What does everyone think?
+[22:26:17] Player 3: Caffeine is definitely related to what I'm thinking, and boosts usually come from it. Though blue seems like an outlier. Anyone else feel like Player 2 might be testing the waters to figure out our word?
+[22:26:18] Player 1: Player 2’s "blue" really stands out as unusual here. While things like boost and caffeine feel interconnected, blue seems like a reach. Could it be that Player 2 is fishing for information? What does everyone else think?
+[22:26:19] Player 0: Blue really feels like it's not connecting with the rest of our words. Maybe Player 2 is trying to latch onto something without knowing what we're all actually hinting at. What’s the story behind "blue," Player 2?
+[22:26:20] Player 2: Blue makes me think of something relatable to our discussion theme. It’s all about different interpretations, right? Player 0, your "beverage" aligns well, but what specific type are you considering?
+[22:26:22] Player 2: I'd say blue is more about the feeling or vibe you get, like something you might experience when you enjoy a particular kind of drink. Player 1, how does "boost" fit into your thinking?
+[22:26:26] Player 4: Player 3, your explanation might help us all see how "caffeine" ties into the word we're thinking of. It seems like the odd one out right now.
+[22:26:38] Player 4: It seems like there's a bit of consensus here that Player 2's choice of "blue" feels out of place. Player 3, I'm curious how "caffeine" connects to the rest of our clues. Could you share your thoughts on that?
+[22:26:38] Player 0: Player 2, I went with "beverage" because it naturally connects to what we're discussing. But "blue" seems like a stretch to me. Could you clarify your choice a little? It feels like it might not fit as neatly with the rest.
+[22:26:38] Player 0: I'm picking up on some common ground between boost and caffeine, which makes sense with our subject. Player 2, can you give us a bit more context on why you went with "blue"? It just feels different from where our focus is.
+[22:26:40] Player 3: Blue feels disconnected from what we're considering here. Caffeine and boost are pretty intertwined. It really seems like Player 2 might be grasping at straws with their choice. What do you all think?
+[22:26:41] Player 1: Player 2, you've caught my attention with "blue." It feels out of place here. I'm leaning towards it being a fishing tactic. Player 3's "caffeine" seems connected to our word, though. What are everyone's thoughts on this?
+[22:26:43] Player 2: Isn't it intriguing how interpretations vary? "Blue" might seem unconventional, but it can evoke certain moods connected to drinks. I'd love to hear how others see "refreshing" fitting into things.
+[22:26:44] Player 2: The word "blue" relates to different interpretations we might have in mind. We all have unique ways of seeing things. I'm curious about how "caffeine" fits into the theme. What's your reasoning, Player 3?
+[22:26:44] Player 4: Player 3, your explanation about caffeine caught my attention because it feels slightly out of sync with the rest of our words. Can you give us a bit more context on why you chose that? It seems like a bit of a stretch compared to everything else being said.
+[22:26:44] Player 0: If "blue" connects, it would be interesting to hear how. Player 2, what’s the connection you see there? For now, it seems like you might not be on the same page with the rest of us.
+[22:26:45] Player 2: Different interpretations can be fascinating, can't they? I'm curious if any of you have a specific connection between "caffeine" and something refreshing or energizing. Player 4, what kind of refreshing thing were you thinking about?
+[22:26:47] Player 1: Player 2, "blue" seems to really stand out. Everything else feels more directly connected to our word. Could you clarify how it ties in? It might help us see if we're missing something or if there's more to your choice.
+[22:26:49] Player 0: Beverage ties into the idea of what we're all hinting at. It's commonly associated with things that give you a kick. Player 2's "blue" just isn't clicking for me. Can you share more on how it connects to your thought process?
+[22:27:03] Player 4: Player 3, the way you link caffeine makes sense, but I'd love to hear more specifics on how you see it connecting. And Player 2, your "blue" feels a bit too abstract for what we're focusing on. Could it be you're trying to figure out our word without a real clue?
+[22:27:04] Player 0: “Blue” feels quite disconnected from our theme. Caffeine, boost, and beverage relate closely. Player 2, can you give more insight into that choice? It doesn't seem to fit what most of us are aiming at.
+[22:27:05] Player 4: Player 3, your choice of "caffeine" seems like it might be trying to latch onto the idea of energy, but it’s a very direct take that feels a bit different from the rest. Can you explain more? And Player 2, your "blue" really seems like a stretch compared to the other clues. What’s your angle on that?
+[22:27:05] Player 1: Player 3, your "caffeine" clue aligns with our word well. But I'm really stuck on Player 2's "blue"—it seems like they're fishing for our word rather than contributing. Anyone else feel the same?
+[22:27:06] Player 3: Caffeine ties directly into what gives a boost. Blue, on the other hand, feels more like an abstract connection. I think Player 2 might be trying to fish for our real word here. Does anyone else see that?
+[22:27:07] Player 4: If we look at the patterns, most of our words are drawing a connection to something invigorating and stimulating. "Blue" feels more like it's outside the core idea here. Player 2, can you offer more insight on how it ties in?
+[22:27:08] Player 0: I feel like we're circling around the issue here. Player 2, "blue" definitely stands out and doesn't quite fit the pattern we're building. Can you shed light on how it ties in? It almost feels disconnected from the theme we're discussing.
+[22:27:11] Player 0: I agree, the word "blue" does feel disconnected from our theme. Player 2, can you help us see how it relates? It seems like it doesn't line up with the other clues we've shared.
+[22:27:11] Player 4: Player 3, it sounds like there's some consensus forming against "blue." While "caffeine" sounds slightly specific, it's potentially related. Player 2, could you tell us more about your choice and how it ties into what we're discussing? Your explanation might help clear things up.
+[22:27:14] Player 2: I used "blue" because it brings to mind certain calming or refreshing sensations, which might align in a unique way with our theme. Everyone's clues seem to have different interpretations, so I’m curious how other words like "refreshing" tie in, Player 4. Any insights?
+[22:27:14] Player 1: Player 3's explanation for "caffeine" matches pretty well with our word. But Player 2, "blue" doesn’t seem to naturally connect here. Can you explain how it ties into what we're discussing? It might help clear things up a bit.
+[22:27:16] Player 0: Player 2, it's curious that you chose "blue." It feels like it doesn't quite align with the pattern we have forming here. Can you delve a bit more into why you picked that, especially when words like "boost" and "caffeine" seem interconnected?
+[22:27:17] Player 1: Player 3's mention of "caffeine" fits well with "boost" since they naturally relate to our word, but "blue" from Player 2 seems like a random choice here. I'm starting to think it might be a tactic to throw us off. Does anyone else agree that Player 2 might be testing the waters?
+[22:27:17] Player 4: I think we're all picking up on something odd here with "blue" from Player 2. It really stands out compared to the rest. Also, Player 3's "caffeine" is specific, but could you clarify how it fits with what we're all hinting at? It helps to align our thoughts.
+[22:27:17] Player 2: It seems like we're all interpreting things differently, but every word offers its own angle. "Blue" can evoke a specific mood or feeling that ties into a broader experience. Still, I'd like to understand how "boost" connects in more detail, Player 1. What are your thoughts behind it?
+[22:27:17] Player 1: Player 3, I agree that "caffeine" and "boost" go hand in hand, which supports the theme we're focusing on. But Player 2’s "blue" really doesn’t fit in. It seems like an attempt to gather more information. What’s everyone else’s take on it?
+[22:27:18] Player 0: Blue doesn’t really align with the rest of the words we’ve been discussing. It feels a bit like Player 2 might be searching for hints. Can you clarify your reasoning behind "blue," Player 2? It might help us piece things together.
+[22:27:20] Player 0: Player 2, I’m still struggling to see how "blue" ties into our theme. It feels a bit out of sync with the rest of our clues. Could it be that you're fishing for our word? Everyone else seems to see it differently too. Can you clarify your choice further?
+[22:27:21] Player 4: Player 2, "blue" is standing out as quite unrelated to our clues. We have words like "caffeine," "boost," and "beverage" that seem to fit a specific theme. Could you clarify how "blue" connects to that? Meanwhile, Player 3, "caffeine" seems to fit well with the idea of energy and boost, but your explanation might clarify things further for everyone.
+[22:27:24] Player 0: I'm starting to see a pattern emerge here, and "blue" feels like it's trying to grasp onto themes we're not discussing. Player 2, your choice just seems off compared to the connections we're making with boost and caffeine. Can you explain a bit more about how it fits into the topic?
+[22:27:31] Player 4: Player 2 seems to be offering a pretty abstract connection with "blue." While it might evoke feelings, it's not directly aligning with the more tangible clues we're discussing. I'm inclined to think they're trying to blend in and find our word. Player 3's "caffeine" has a direct link to "boost," so I'm more inclined to trust that. Does anyone else find Player 2's explanation a bit too vague?
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[22:27:33] Player 0: Voted for Player 2
+[22:27:34] Player 1: Voted for Player 2
+[22:27:36] Player 2: Voted for Player 3
+[22:27:37] Player 3: Voted for Player 2
+[22:27:39] Player 4: Voted for Player 2
+[GAME] Voting results: {2: 4, 3: 1}
+[GAME] Player 2 has been eliminated by vote!
+[22:27:39] Game: Player 2 has been eliminated!

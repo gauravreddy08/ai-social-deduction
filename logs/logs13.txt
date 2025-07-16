@@ -1,0 +1,243 @@
+[HIDDEN INFO] Imposters: {4}
+
+[HIDDEN INFO] The Civilian's word is: Oxford
+
+[GAME] Every Player will say their clue word randomly...
+[11:11:25] Player 6: Said word: university
+[11:11:26] Player 5: Said word: england
+[11:11:27] Player 4: Said word: library
+[11:11:28] Player 2: Said word: scholar
+[11:11:29] Player 3: Said word: academic
+[11:11:30] Player 1: Said word: gown
+[11:11:31] Player 0: Said word: spires
+[11:11:31] Round 1 has started! Round will end at 11:13:01
+[11:11:31] Players Alive: [0, 1, 2, 3, 4, 5, 6]
+[11:12:12] Player 4: Okay, I know I’m jumping in early here, but I have to ask: Player 5, you said “England.” That feels way broader than what everyone else is sharing—we’ve got “gown,” “spires,” “scholar,” “university”… all way more focused. Are you trying to be sneakily vague, or am I just reading into it too much? Curious what everyone else thinks about that.
+[11:12:29] Player 5: Looking at all the clues, everyone’s words feel connected, but a couple stand out. Player 1, your clue “gown” is specific, but it’s a bit of an outlier compared to the rest focusing on academics or place. Also, Player 0’s “spires” is really unique—do you mind sharing your thought process on picking that word? I feel like most of us aimed for academic aspects and those two went in a slightly different direction. Does anyone else feel the same, or am I overthinking it?
+[11:12:35] Player 6: Looking at all our clues, I think we’re pretty clustered around the same topic, but what stands out to me is Player 3 using the word academic. I get why you'd pick that, but it’s the only one that feels a bit removed—like it could apply to a lot of places worldwide, not just the one word we're all thinking. Everyone else gave clues that are a little more grounded to a specific place, I think. Am I the only one getting that feeling, or does anyone else find that clue a little vague?
+[11:12:37] Player 3: Looking at all the clues, I feel like most people are generally on the same page. The only one that stands out to me a bit is Player 4's word, "library." It technically fits, but it feels kind of specific compared to the other answers, which are more about the institution or location as a whole. I'm curious what your train of thought was there—are you thinking about a specific place, or just the general environment? Also, Player 1, "gown" is interesting—was that in reference to graduation or something else? Would be good to hear your reasoning.
+[11:12:42] Player 1: Looking at all the clues, I’m actually feeling pretty good about most of them. “Spires” and “gown” are both really specific—especially since a lot of famous university images show spires and students in gowns, which fit perfectly if we’re all thinking about the same place. But I’m a little side-eyeing “england.” It’s technically true, but it feels almost like a safe word someone would use if they weren’t exactly sure what’s going on. Everyone else’s clues are focused on the academic vibe, but “england” is almost pulling back to the basics. Player 5, can you walk us through your thought process a bit more?
+[11:12:45] Player 2: Interesting choices this round. A lot of us went straight for words connected to studying or higher education, which makes sense. The one that stands out to me is "spires" from Player 0—it’s more visual than the rest of the clues, but I can see the connection if you know what the word is. 
+
+Player 5’s "england" also feels a bit broad compared to everyone else, but maybe they were trying not to be too obvious. Player 1’s "gown" is a good one—that’s not something you’d associate with just any university.
+
+How does everyone feel about "spires" and "england"? Are those reaching, or am I reading too much into it?
+[11:12:45] Player 0: Alright, so looking at all the clues, I actually feel pretty good about most of them—they all feel related to the word. The only one that’s giving me pause is Player 4 with “library.” I get that there’s a famous library, but the rest of us went a bit broader or hinted more specifically at the overall idea. Am I reading too much into that, or do others feel like “library” could be playing it a bit too safe? 
+
+Also, curious what other people think about “gown”—it fits if you know certain traditions, but it could also be a reach if someone’s improvising. Anyone else leaning suspicious on those two?
+[11:12:55] Player 4: While we’re waiting for answers, I’m also a little stuck on Player 1’s clue—“gown” is definitely related to what others are saying, but it’s more about clothing than location or people. Not saying it’s suspicious, but can you explain what you meant by that? I want to see if it lines up with what I’m thinking.
+[11:13:56] Player 6: I agree with Player 4 on “England” feeling super broad. If we all got the same word, I’d expect something a bit more connected to the subject, not just the country it’s in. Also, on Player 5’s point about “gown” and “spires”—honestly, “spires” jumped out at me too, but in a way that feels like someone actually knows the word. There’s a very specific connection there. For “gown,” though, I feel like it fits—if you think about university traditions, those kinds of outfits are pretty iconic. Player 3’s “academic” and Player 5’s “England” both feel like safer, broader answers, so I’m most curious about those. Player 5, was there a reason you stuck to the whole country?
+[11:14:05] Player 5: I get where you’re coming from, Player 4, but let me explain why I chose “England.” I was aiming for something national to avoid being way too on the nose and getting targeted myself—plus, it’s directly related to the word without giving it all away. I thought being too specific right out the gate might make me a target for impostors. If that comes off as vague, I get it, but honestly, how would you have gone about it?
+
+I’m still interested in what Player 0 has to say about “spires.” That’s a pretty distinctive choice, and it feels tied to something very recognizable. Also, Player 1, was there a reason you went straight to “gown”? That’s not the first thing I associate with our word.
+
+Anyone else have doubts, or is it just those clues that stand out to you?
+[11:14:12] Player 0: Since a couple people have mentioned “spires” as either oddly specific or maybe a reach, let me explain my thinking. I picked “spires” because this place is basically famous for that—you see them in almost every photo, and it’s such an iconic silhouette. I felt like picking something too academic would blend in too easily, but the spires are what set it apart from literally any other university.
+
+As for “england”—that’s true, maybe it’s just someone being careful, but it does stick out compared to the rest of us being more targeted. Player 4, your “library” clue could make sense given the location’s reputation, but if you were the impostor, it’s a smart choice since there are university libraries everywhere. What made you land on that word specifically?
+[11:14:15] Player 3: Since people are questioning my clue, I want to explain where I was coming from. I picked “academic” because when I think of our word, it’s not just about the physical place or the country—it’s known worldwide for being all about academics, scholarship, and learning. “England” actually feels way broader to me than “academic,” since so many things could be in England but aren’t necessarily linked to our word. Also, “library” does fit but is more of a feature within the main place itself, as opposed to its overall reputation. For “gown,” I do think of ceremonies and traditions that are really iconic there, so it doesn’t feel out of place for me. I’m curious—Player 5, can you say more about why you chose “England” over something that ties more directly to the institution?
+[11:14:17] Player 1: I get where you’re all coming from about “gown,” so let me explain my thinking: I picked that word because the academic dress is super distinctive for this place. You immediately picture students in traditional gowns—it’s kind of iconic and really sets it apart from just any university or academic environment. 
+
+As for the broader question, I still feel strongest about “england” being too zoomed out. There are dozens of universities in England, but if you knew the actual word, wouldn’t you pick something a little more focused? “Spires” actually feels right to me because this place is famous for them visually, much more than just any university. 
+
+Curious to hear more from Player 5 on their reasoning, and maybe Player 4 too—what made you land on “library”? Was it Bodleian-related or just general?
+[11:14:19] Player 2: I actually think “gown” and “spires” both make sense if we’re all thinking of the same place—those are famous symbols tied to it, especially the spires. If anything, they feel a little risky to say if you’re an impostor, since they could give away the word. 
+
+To me, “england” is still the one that doesn’t quite fit. I get wanting to stay safe, but when everyone else gave clues connected to the specific institution, “england” sounds more like someone trying to stay vague. 
+
+As for “library,” I don’t find it that suspicious—if you know the place, the library is iconic. My main question is for Player 5: if you have the same word, what led you to go with the country instead of something more tied to the location or academics?
+[11:14:20] Player 2: The more I look at it, the less I think “library” is suspicious. Oxford is famous for its libraries—even if it’s a bit more specific, I don’t think it’s out of place. With “gown,” I think it fits too, especially considering graduation or formal academic dress is such a big deal there.
+
+Out of everything, “england” feels the least connected—the rest of us got more precise, and it seems like a fallback answer if you knew the country but not the exact word. “Spires” actually makes sense if you’ve ever seen pictures of Oxford, so I’d lean toward that being legit.
+
+Right now, my main question is for Player 5: was “england” you playing safe, or did you have something in mind that connects directly to the word we’re all thinking?
+[11:14:50] Player 4: There are some solid points being made about “england” being really broad, but I’m not totally convinced it’s the most suspicious clue. Honestly, I get the arguments about “library” too—yeah, it’s a bit more specific, but to me it still fits with the kind of place we seem to be circling around. What I’m more interested in now is the “academic” clue from Player 3. It feels like the kind of word you could use if you didn’t know the actual answer but wanted to sound close enough.
+
+Also, Player 0, your logic on “spires” makes sense after hearing your explanation, but originally I thought it was reaching a bit too. I guess the thing we should be asking is: if someone was guessing without the real word, would they just go general like “england” or try to pick something vague but close, like “academic”? 
+
+What do others think—should we be more suspicious of the broad answers, or the ones that play it really safe but are technically related?
+[GAME] Round 1 completed
+
+[GAME] Starting Voting Round 1
+[11:14:51] Player 0: Voted for Player 5
+[11:14:52] Player 1: Voted for Player 5
+[11:14:54] Player 2: Voted for Player 5
+[11:14:55] Player 3: Voted for Player 5
+[11:14:56] Player 4: Voted for Player 5
+[11:14:58] Player 5: Voted for Player 3
+[11:15:00] Player 6: Voted for Player 5
+[GAME] Voting results: {5: 6, 3: 1}
+[GAME] Player 5 has been eliminated by vote!
+[11:15:00] Game: Player 5 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[11:15:01] Player 2: Said word: college
+[11:15:03] Player 0: Said word: row
+[11:15:03] Player 1: Said word: tutorial
+[11:15:04] Player 4: Said word: tradition
+[11:15:06] Player 6: Said word: professor
+[11:15:07] Player 3: Said word: tutorials
+[11:15:07] Round 2 has started! Round will end at 11:16:37
+[11:15:07] Players Alive: [0, 1, 2, 3, 4, 6]
+[11:16:24] Player 4: Looking at this set of clues, most people kept tight to the academic theme—“professor,” “tutorial,” “tutorials,” “college.” Player 0’s “row” stands out to me. I get there’s “college rowing” and such, but it feels more like you’re stretching for something that fits the physical environment. Also, Player 3 echoed “tutorials” after Player 1 already said “tutorial,” which could either be you both genuinely thinking along the same lines or someone piggybacking to blend in.
+
+For everyone else, what made you choose your clues this round? Especially interested in hearing more on “row” and the double “tutorial(s).” Are we starting to see people running out of real connections, or is this still on track?
+[11:16:54] Player 2: Now that I’m looking at this round, it feels like we’re all even more dialed in on the target—especially with words like “tutorial,” “college,” and “professor.” I know I went with “college” because it’s basically impossible to talk about our word honestly without thinking of the collegiate system.
+
+Player 0’s “row” is interesting. If you know the word, that's probably referencing the famous sport or area, but I could also see how someone guessing might pick a word like that just because it sounds British without being tied directly to the institution.
+
+I’m less suspicious of “tradition” from Player 4 and “professor” from Player 6, since both are core to the place. Player 3’s “tutorials” and Player 1’s “tutorial” being almost identical is kind of strong, honestly—not something an impostor would risk unless they were copying.
+
+So my main curiosity is about “row” from Player 0. Are you thinking about the rowing teams, or did you have another reason behind that clue?
+[11:16:55] Player 1: Now that we’ve all put down round two clues, I’m actually feeling pretty confident about the group—almost all of us went straight to things you’d think about if you knew the word. “Tutorial” and “tutorials” showing up from both me and Player 3 is either a weird coincidence or genuine, but I can’t imagine an impostor landing on that unless they were guessing really well. “College,” “tradition,” “professor”—those all track too, and “row” is definitely something you’d know if you were familiar with Oxford and its specifics.
+
+If I had to press anyone, maybe “professor” from Player 6 feels like it could be plugged into almost any university, but I’m not sure it’s enough to be suspicious by itself with the rest of these clues. What do the rest of you think—anyone getting off vibes from any of the new clues, or do we feel like the impostor is having a harder time keeping up now that the focus has narrowed?
+[11:16:55] Player 6: Okay, first off, I really like how much more targeted everyone’s clues are this round—“college,” “tutorial,” “professor,” “row,” and “tradition” all feel very in the zone for the place we’re thinking of. I especially appreciate “tutorial/tutorials” from Players 1 and 3, since that’s sort of a trademark thing. 
+
+What stands out a little to me this round is Player 0 going with “row.” I get that there’s a rowing culture here, but out of all our clues, it’s the only one that isn’t directly about academics or traditions—was there a specific reason you picked that? Just want to hear your reasoning, since everyone else stayed a bit closer to the academic side. 
+
+Other than that, everyone’s feeling pretty solidly in sync. Player 3, your “tutorials” also lines up well with what Player 1 said, so you two seem on the same page. Anybody else have gut feelings about which clues might be playing it safe or standing out?
+[11:17:02] Player 0: I’m really interested by Player 3 and Player 1 both using “tutorial” or “tutorials.” That’s pretty specific to this place, but I’m a little thrown by how closely those clues line up—like, almost too much if you’re both Civilians, unless you just happened to lock into the same association. Did you both think of the same thing independently, or is there some bandwagoning going on?
+
+Also, Player 6 with “professor” is perfectly logical, but honestly, that’s a word you could use about basically any academic institution anywhere. Not saying it’s suspicious by itself, but compared to stuff like “tradition” and “college,” it’s just a tad more generic.
+
+As for my clue “row”—I was thinking along the lines of “college row,” since the layout here is really distinctive and you get a ton of different colleges in neat rows, courtyards, that sort of thing. If people think it was off, I’m happy to explain further.
+
+Curious what everyone thinks about the pairing of similar clues and the broader ones—anyone have a strong read yet?
+[11:17:10] Player 3: I’m noticing two things this round: first, almost everyone went with something more “inside baseball” about the place—“tutorials,” “college,” “professor,” “row,” “tradition.” All of those really only make sense if you seriously know the specific way it works there, especially “tutorial” and “tutorials.” I like that Player 1 and I basically gave the same clue—it kind of makes me trust you, Player 1, since I doubt two impostors would double down in the same super-specific direction.
+
+Player 0’s “row” is interesting—do you mean like rowing, as in the boat races? Because that’s a huge tradition there, but just saying “row” could be a bit of a gamble if you’re an impostor trying to sound authentic. Player 4’s “tradition” is broad, but fits—though it’s a safe way to play if you don’t know the specifics.
+
+Player 6, you went with “professor,” which fits, but is also a tiny bit generic compared to the rest—what pushed you to use that instead of something more distinct? I’m not super suspicious yet, but I’d love to hear what everyone was thinking with their clues—especially on the more general side.
+[11:17:55] Player 4: I agree that “tutorial” coming up twice is interesting—could just be that it’s such a central part of this place’s system, or maybe someone wanted to stay close to a safe answer. As for “row,” I know rowing is a big tradition here, but the clue by itself feels a touch vague compared to everyone else mentioning academic structures or people. 
+
+One thing I’m curious about: Player 3, since you followed up with “tutorials” right after Player 1, were you bouncing off their clue, or did you genuinely have that in mind beforehand? Same for Player 0, was “row” about the rowing teams, or something else entirely? I feel like now is when people who don’t know the word might start looking for less obvious associations—what’s everyone else’s take?
+[GAME] Round 2 completed
+
+[GAME] Starting Voting Round 2
+[11:17:57] Player 0: Voted for Player 6
+[11:17:58] Player 1: Voted for Player 6
+[11:18:00] Player 2: Voted for Player 6
+[11:18:02] Player 3: Voted for Player 6
+[11:18:03] Player 4: Voted for Player 6
+[11:18:04] Player 6: Voted for Player 0
+[GAME] Voting results: {6: 5, 0: 1}
+[GAME] Player 6 has been eliminated by vote!
+[11:18:04] Game: Player 6 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[11:18:05] Player 1: Said word: matriculation
+[11:18:09] Player 4: Said word: alumni
+[11:18:11] Player 3: Said word: rhodes
+[11:18:12] Player 2: Said word: punting
+[11:18:13] Player 0: Said word: press
+[11:18:13] Round 3 has started! Round will end at 11:19:43
+[11:18:13] Players Alive: [0, 1, 2, 3, 4]
+[11:19:48] Player 2: Looking at these clues, I think we’re getting super concentrated on details only someone with our word would know. “Matriculation,” “alumni,” and “Rhodes” are all pretty deep cuts tied directly to Oxford—same thing with “press.” I picked “punting” because it’s such a classic Oxford thing, with people doing it on the river.
+
+Given that, Player 0’s “press” makes sense if you’re thinking about the university’s publishing house, but it’s maybe the only clue here that isn’t directly about traditions or people. Could just be another aspect of the institution, though—so I’m not sure it’s suspicious.
+
+How does everyone else feel about “press”? Do we think it’s a real connection, or is it a bit off compared to the other clues? And Player 3, “Rhodes” is spot-on for me, so that adds up. Any doubts popping up for anyone else based on this round?
+[11:19:52] Player 0: So now that we’re down to five, these clues are definitely narrowing in. For me, “matriculation,” “alumni,” and “rhodes” all jump out as perfectly linked to the university—each involving either events, people, or famous scholarships directly connected to this place. “Punting” from Player 2 is a classic Oxford thing as well, especially if you’ve ever been to the city.
+
+If we’re looking for something that stands out, “press” (which I put) might seem a little industry-focused, but Oxford University Press is a huge part of what people associate with the word. Just want to clarify that before it gets side-eyed for not being academic enough.
+
+How do the rest of you feel about these clues? Anything pop out as inconsistent or oddly vague? I’m pretty happy with the specificity here across the board, but I’m curious if anyone sees a clue that feels off or a bit too safe.
+[11:19:58] Player 3: We're getting really granular now, which honestly makes me feel pretty good about the group. The clues this round are all really associated with the word for anyone who knows it—“matriculation,” “alumni,” “Rhodes,” “press,” “punting.” It’s kind of hard to imagine an impostor still keeping up at this point unless they’ve completely cracked the code.
+
+Player 0’s “press” stood out a bit just because it’s the only one that’s not directly about traditions, people, or famous aspects unique to the place—but I know exactly how it relates, so I’m not reading that as suspicious if you’re thinking of the same word. As for my clue “rhodes,” I picked it because it’s world-famous and deeply tied to the reputation of the place.
+
+Are we all starting to feel more confident that we’ve weeded out the impostors, or does anyone think someone’s still flying under the radar? I’m especially interested if anyone feels a particular clue here doesn’t fit.
+[11:20:03] Player 1: Now that we’re into the third round, I’m really liking how specific a lot of these clues are. “Matriculation,” “alumni,” “Rhodes,” and “press” all feel like you’d need to know the word to come up with them. “Punting” from Player 2 is a very local reference too, and honestly, you see that a lot in the images of this place, so I get the connection. 
+
+I notice that none of these clues could really be guessed by someone just thinking about general universities in England—if you didn’t know specifics about Oxford, I doubt you’d land on things like “punting” or “press.” 
+
+Curious to hear if anyone feels like any of these are reaching, but right now I’m actually feeling pretty strong about the group. If I had to pick, “press” from Player 0 is the only one that’s a bit broader, but with the university press being so famous, it fits. Anyone getting any odd vibes, or are we all in sync?
+[11:20:21] Player 4: Now that we're in round three, everyone's getting even more targeted with their clues—"matriculation," "punting," "rhodes," "press," "alumni." It's interesting seeing "press" from Player 0, since it’s definitely associated with the place, but it’s a little less about student experience and more about publishing. Not off-track, just a slightly different angle.
+
+"Rhodes" from Player 3 is a pretty deep pull and lines up with the scholarships, so that feels solid. I went with "alumni" since the network is massive and so many notable people have come through here.
+
+I’m really curious about Player 2’s "punting"—that feels like the kind of thing you only mention if you really know what goes on around the institution. And Player 1, "matriculation" is super inside-baseball. I can't see someone guessing that out of nowhere.
+
+If I had to pick someone whose word is a bit less connected to the usual traditions or academic focus, I'd say Player 0 with "press" stands out a little, but not in a way that’s totally off. 
+
+How’s everyone feeling about the direction of these clues? Does anyone see a real outlier, or does it feel like we all know what’s up?
+[GAME] Round 3 completed
+
+[GAME] Starting Voting Round 3
+[11:20:22] Player 0: Voted for Player 0
+[11:20:24] Player 1: Voted for Player 0
+[11:20:26] Player 2: Voted for Player 0
+[11:20:27] Player 3: Voted for Player 0
+[11:20:28] Player 4: Voted for Player 0
+[GAME] Voting results: {0: 5}
+[GAME] Player 0 has been eliminated by vote!
+[11:20:28] Game: Player 0 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[11:20:29] Player 4: Said word: ceremony
+[11:20:31] Player 3: Said word: don
+[11:20:32] Player 1: Said word: sheldonian
+[11:20:34] Player 2: Said word: debate
+[11:20:34] Round 4 has started! Round will end at 11:22:04
+[11:20:34] Players Alive: [1, 2, 3, 4]
+[11:21:58] Player 2: I think this set of clues is keeping us in a strong spot. “Sheldonian” from Player 1 is really specific—only someone thinking of Oxford would say that, since it’s not a building you’d hear about with just any university. “Don” and “ceremony” also land closely for me. I chose “debate” because those famous debating societies are a classic part of Oxford’s student life.
+
+Honestly, at this point, I’d be shocked if there’s still an impostor in play—these clues are so targeted, it’d be really tough to fake them without the word. But just to keep us sharp: anyone see a hint of vagueness or repetition that we should worry about? Or is everyone feeling as confident as I am that we’ve got a tight circle left?
+[11:22:04] Player 4: At this point, I’m honestly impressed that all the clues are still dialing in on really specific elements—like “sheldonian,” “don,” “ceremony,” and “debate.” “Sheldonian” is super niche and only ties to one place, so I’m actually feeling like everyone here is probably on the same wavelength.
+
+The only thing that jumps out is that with “debate,” it’s definitely famous in this place, but it’s a little more general than the other clues. I know the debating society is iconic here, so it’s not out of place, just not quite as unique as “sheldonian” or “don.”
+
+Are we thinking anyone is still trying to play it safe, or are we fully convinced everyone in this final group has the same word? I feel like the level of detail is hard to fake this late—curious if anyone disagrees.
+[11:22:21] Player 1: This round, it’s impressive how deep everyone is digging: “ceremony,” “don,” “sheldonian,” and “debate” all point straight at Oxford. I went with “sheldonian” because the theatre is a huge landmark there—matriculation, graduations, major events, it all happens in that building. Nothing you’d randomly guess if you weren’t thinking Oxford specifically.
+
+Player 3, your clue “don” is another inside reference—if someone didn’t know the culture, I doubt they’d pick it. Player 4 choosing “ceremony” makes sense with all the traditions involved, though it’s slightly broader than the others; still, it fits really well. Player 2, “debate” speaks to the famous unions and intellectual culture, so that checks out too.
+
+Honestly, at this point, I can’t spot anything out of place—the level of detail is so high, I’d be amazed if an impostor was still keeping up. Does anyone else feel like there’s a clue here that’s a little weaker, or are we just getting more and more specific as it goes on?
+[11:22:25] Player 3: This round, our clues are all really locked into details you’d only know if you’ve been around or studied the place pretty closely—“ceremony,” “don,” “sheldonian,” “debate.” For my part, I picked “don” because it’s a classic term for the academic staff here, and you almost never hear it used anywhere else.
+
+Player 1, “sheldonian” is a really specific pick—the kind of deep reference that makes me think you’re almost definitely a Civilian, since that building is so iconic for ceremonies. Player 4’s “ceremony” also tracks, given how many traditions and formal events are a huge deal. Player 2, “debate” is interesting—it’s definitely tied to the Oxford Union and is a major tradition, so I get the connection.
+
+At this point, there isn’t really an obvious outlier, but I’d like to hear more about the thinking behind “debate,” just because it could, in theory, come up at other places—though it is especially famous here. Is anyone picking up any tiny red flags, or do we think we nailed it?
+[11:23:11] Player 2: I’m with you—these clues are really dialing in on Oxford-specific stuff. “Sheldonian” especially—there’s no way you land on that unless you’ve got the actual word. “Don” and “ceremony” make perfect sense too, and neither feels like a stretch. I went with “debate” because it’s one of those signature traditions that’s super recognizable to anyone who knows the university.
+
+At this point, if there’s still an impostor, they deserve an award for blending in. Is anyone even slightly suspicious of one of these clues, or are we basically ready to say we’ve found all the impostors? I’m not seeing anything sketchy, but let’s double-check before we call it.
+[GAME] Round 4 completed
+
+[GAME] Starting Voting Round 4
+[11:23:12] Player 1: Voted for Player 2
+[11:23:14] Player 2: Voted for Player 4
+[11:23:15] Player 3: Voted for Player 2
+[11:23:18] Player 4: Voted for Player 2
+[GAME] Voting results: {2: 3, 4: 1}
+[GAME] Player 2 has been eliminated by vote!
+[11:23:18] Game: Player 2 has been eliminated!
+
+[GAME] Every Player will say their clue word randomly...
+[11:23:19] Player 4: Said word: arch
+[11:23:21] Player 3: Said word: balliol
+[11:23:22] Player 1: Said word: tutorials
+[11:23:22] Round 5 has started! Round will end at 11:24:52
+[11:23:22] Players Alive: [1, 3, 4]
+[11:25:08] Player 1: At this stage, I feel like everyone’s clues are so uniquely Oxford-focused that it’s tough to see anything suspicious. “Tutorials” is what I went with again because, honestly, there’s no academic system that gets more associated with Oxford than that—plus, it's something we already referenced earlier, and it felt natural to keep things consistent.
+
+“Balliol” from Player 3 is another super deep cut—a specific college—so I can’t imagine someone landing on that unless they really know the details. “Arch” from Player 4 is a bit broader, but there’s a pretty iconic bridge and archways all over, so I see how it fits.
+
+At this point, if anyone’s hiding, they’ve done an insanely good job. Player 4, what specifically made you choose “arch” this time? Are you thinking of something like the Bridge of Sighs or just the general architecture? Player 3, curious if you picked “balliol” to get extra specific, or was there something else you considered?
+[11:25:13] Player 4: I feel like now that we’re down to three, all the clues are still circling back to the same core idea. “Balliol” from Player 3 is hyper-specific—definitely something you pick if you know the institution inside out. Player 1 bringing up “tutorials” again just reinforces how central that system is to this place. I chose “arch” because the architecture here is so iconic, and arches in particular are everywhere on the campus and in the quads.
+
+If I had to nitpick, maybe “tutorials” repeating feels a bit safer in comparison to something like “Balliol,” which is a pretty bold nod to the word. But honestly, I don’t see any clue here that feels out of place or like someone is grasping.
+
+What are you both thinking now—does “arch” sound specific enough to you, or does it seem like someone could guess that? And Player 1, was there a reason you went back to “tutorials” for this round? Just making sure we’re all still on the same page.
+[11:25:15] Player 3: Wow, these clues are getting hyper-targeted. I went with “balliol” because it’s one of the oldest and best-known colleges—only someone locked in on the same word would even think to bring up a specific college like that. “Tutorials” from Player 1 is right back to one of the most unique features of the place. Player 4, “arch” is definitely a specific architectural motif, though I’d like to know which one you had in mind since there are a few really famous ones around Oxford—was there a reason you went with that instead of another aspect?
+
+Honestly, at this point, if we’re all still alive and throwing out clues like these, it’s hard for me to believe there’s an impostor left. But I’d love to hear more about the thought process behind “arch”—maybe you’re thinking of the Bridge of Sighs or the Radcliffe Camera arches? Just trying to make sure nothing slips under the radar. Anyone else picking up on anything, or do we feel like we’ve locked this down?
+[GAME] Round 5 completed
+
+[GAME] Starting Voting Round 5
+[11:25:17] Player 1: Voted for Player 4
+[11:25:19] Player 3: Voted for Player 4
+[11:25:21] Player 4: Voted for Player 1
+[GAME] Voting results: {4: 2, 1: 1}
+[GAME] Player 4 has been eliminated by vote!
+[11:25:21] Game: Player 4 has been eliminated!
